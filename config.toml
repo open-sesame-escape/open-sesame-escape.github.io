@@ -7,6 +7,12 @@ theme = "learn"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+# This is necessary to make my shortcodes work with markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page.
   # Useful to give opportunity to people to create merge request for your doc.
@@ -24,7 +30,7 @@ home = [ "HTML", "RSS", "JSON"]
   # Set this to true to disable this behavior (some proxies don't handle well this optimization)
   disableAssetsBusting = false
   # Set this to true to disable copy-to-clipboard button for inline code.
-  disableInlineCopyToClipBoard = false
+  disableInlineCopyToClipBoard = true
   # A title for shortcuts in menu is set by default. Set this to true to disable it.
   disableShortcutsTitle = false
   # If set to false, a Home button will appear below the search bar on the menu.
