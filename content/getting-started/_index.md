@@ -93,3 +93,62 @@ you cannot open a box/room too early, is a bit harder without the
 explicit flowchart. But you can once again check where the items that each
 puzzle requires are revealed and make sure that at least one of the items
 appears in a room or box that should be open first.
+
+## The Plot
+
+Right now you might be thinking, _Plot? I want to make escape rooms, not
+write stories. We're already 3 pages into this stupid web site and we're
+still talking about things like plot._
+
+I admit that on the first time I set out to make an escape room, I didn't
+give much credence to the story. But what I found is that the story is
+important for a couple of reasons. First, the story provides purpose for
+the players. It is what elevates the game above a simple puzzle book.
+
+Second, constructing the story early helps with the overall design of the
+escape room. The plot points of the story form the aforementioned rooms and
+boxes that structure the room. I'm constantly surprised how, once I come up
+with the basic plot structure, how quickly the rest of the escape room
+comes together. Simply having an idea of what each room and box will mean
+helps come up with creative ideas.
+
+That's not to say that the design of the escape room should be a linear
+process. After outlining the basics of the plot, I find it most useful to
+bounce back and forth from puzzle design to plot refinement and back. The
+plot points can provide inspiration for clever puzzle designs. And the
+design of puzzles can provide interesting refinements for the plot.
+
+## The Puzzles
+
+Yes. Finally. The puzzles. The best part of any escape room.
+
+The puzzles can be pretty much anything. And, of course, you'll find lots
+of suggestions on the [puzzles] pages here. But, remember as you
+design puzzles that you are not creating the same variety of puzzles that
+you might find in, say, a book of crossword or sudoku puzzles. So, here are
+some features of the best escape room puzzles.
+
+  * **Lateral Thinking** The best escape room puzzles are solved with a bit
+    of lateral thinking. The puzzles comprise a collection of items and
+    clues that on face value have no particular significance. But when
+    looked at differently or put together in the right way, a secret
+    meaning is revealed.
+  * **Shortness** The mechanics of the puzzle should not take a long time
+    to complete. Players might take a long time to figure out to solve a
+    hard puzzle, but once they achieve that "ah-ha" moment, the answer to
+    the puzzle should be quick and self evident.
+  * **Uniqueness** Each puzzle in the escape room should be unique. In
+    fact, none of the players should have ever seen any of the puzzles or
+    anything like them.
+
+When starting the puzzle design for your escape room, it is good to start
+by browsing [puzzle suggestions][puzzles] from this page and others while
+keeping these features in mind. You can also get inspiration from any
+commercial escape rooms that you have done. As you think about potential
+puzzles, it is a good idea to keep a list of potential ideas, even if you
+do not yet have an idea where you will use it. You never know when
+inspiration will hit, and it is good to jot down ideas as they come before
+they are forgotten.
+
+
+[puzzles]: /puzzles
