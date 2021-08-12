@@ -39,8 +39,8 @@ graph TB;
 
 What makes organizing your escape room this way so important is that it
 allows you to ensure that the arrangement of items in your escape room is
-correct. In particular, your the arrangement of items in your escape room
-_must_ follow the following 2 rules.
+correct. In particular, the arrangement of items in your escape room
+must follow the following 2 rules.
 
   1. The puzzle for any box or room must need only items that are
      accessible without the items in that box or room.
@@ -103,7 +103,7 @@ still talking about things like plot._
 I admit that on the first time I set out to make an escape room, I didn't
 give much credence to the story. But what I found is that the story is
 important for a couple of reasons. First, the story provides purpose for
-the players. It is what elevates the game above a simple puzzle book.
+the players. It is what elevates the game above a simple puzzle collection.
 
 Second, constructing the story early helps with the overall design of the
 escape room. The plot points of the story form the aforementioned rooms and
@@ -142,7 +142,7 @@ some features of the best escape room puzzles.
     anything like them.
 
 When starting the puzzle design for your escape room, it is good to start
-by browsing [puzzle suggestions][puzzles] from this page and others while
+by browsing [puzzle suggestions][puzzles] from this site and others while
 keeping these features in mind. You can also get inspiration from any
 commercial escape rooms that you have done. As you think about potential
 puzzles, it is a good idea to keep a list of potential ideas, even if you
@@ -186,9 +186,9 @@ they have no relevance to the escape room.
 
 Once you've designed your escape room, built all your puzzles and props,
 set up everything in your rooms, and tested to make sure everything works,
-you are to play the game. The game operates with a proctor (that's you, the
-designer of the game) and some number of players. 1-4 players at a time
-usually works best.
+you are ready to play the game. The game operates with a proctor (that's
+you, the designer of the game) and some number of players. 1-4 players at a
+time usually works best.
 
 The proctor starts the game by going over the instructions of the game.
 These establish the ground rules. This will include some basic escape room
@@ -205,17 +205,16 @@ preference is to keep this description short by telling the players only
 who they are, where they are, and what they are immediately doing.
 Something like, "The group of you have been summoned to your recently
 departed uncle's old mansion at the top of the hill. You all stand to
-inherit a small fortune, but, unfortunately, no one has yet found the will.
-Your lawyers have urged you to come here in hopes that you find the will and
-avoid a lengthy legal battle." Remember that an escape room is also an
-interactive story, so the plot should progress and the stakes should be
-raised as the players progress (e.g. the will you find stipulates you must
-spend the night to inherit the fortune; you find that the mansion is
-actually filled with deadly traps; you discover that your uncle was deep
-into the occult and plans to sacrifice your souls to return to an immortal
-life).
+inherit a small fortune, but no one has yet found the will. Your lawyers
+have urged you to come here in hopes that you find the will and avoid a
+lengthy legal battle." Remember that an escape room is also an interactive
+story, so the plot should progress and the stakes should be raised as the
+players progress (e.g. the will you find stipulates you must spend the
+night to inherit the fortune; you find that the mansion is actually filled
+with deadly traps; you discover that your uncle was deep into the occult
+and plans to sacrifice your souls to return to an immortal life).
 
-From here on out, the players start the game. The proctor sits back and
+From here on out, the players run the game. The proctor sits back and
 quietly monitors the players. One of the functions the proctor should
 perform is to ensure that the players do not accidentally (or intentionally)
 circumnavigate or break the puzzles. To win an escape room, players need to
@@ -228,14 +227,14 @@ said that, no, the mechanism is supposed to be affixed to the table, and
 you cannot lift it up. Then I reset the puzzle so the players could try
 again.
 
-The other major function the proctor holds is to provide hints when the
-player gets stuck. Hints should be given sparingly; the big fun of playing
+The other major function of the proctor is to provide hints when the
+players get stuck. Hints should be given sparingly; the big fun of playing
 an escape room is solving the puzzles. I personally find that after going
 through the setup for the game, I have a hard time keeping quiet about the
 puzzles, so I have to concentrate on sitting back and watching. 
 
 That said, the escape room gets frustrating if the players cannot figure
-out the puzzle. Once all the players agree that they need a hint, give one.
+out a puzzle. Once all the players agree that they need a hint, give one.
 Try to give a hint that nudges the players in the right direction without
 giving the solution outright. For example, if the players are struggling to
 decode a message, a hint might be to look for clues displayed around the
