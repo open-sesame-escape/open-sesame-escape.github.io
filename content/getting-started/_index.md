@@ -70,7 +70,7 @@ the structure is constantly shifting. Instead, I usually just write things
 out in a linear outline. The outline is a simple ordered list of rooms and
 boxes, like this.
 
-{{% example %}}
+{{% example font=normal %}}
   * **Room 1**
     * Items
       * Item 1
