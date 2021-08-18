@@ -1,5 +1,6 @@
 ---
 title: "Getting Started"
+weight: 10
 ---
 
 Ready create your own escape room? This page goes over the basics to get
