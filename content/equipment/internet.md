@@ -1,6 +1,9 @@
 ---
 title: "Internet"
 weight: 40
+thumbnail: "internet.jpg"
+summary: "Post content to the internet, point to it with QR codes, and let
+players use their smartphontes to interact with the data."
 ---
 
 Although not really practical for a commercial escape room, the internet is

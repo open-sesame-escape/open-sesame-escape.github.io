@@ -1,6 +1,9 @@
 ---
 title: "Locks"
 weight: 10
+thumbnail: "locks.jpg"
+summary: "What would an escape room be without locks? Use physical locks to
+make your puzzles tangible."
 ---
 
 What would an escape room be without locks? The puzzles the players solve

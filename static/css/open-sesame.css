@@ -1,0 +1,31 @@
+
+.image-right {
+    float: right;
+    padding-left: 5px;
+    margin: 0px;
+}
+
+/* Undo the odd top/bottom margin for images. */
+#body img {
+    margin: 0px;
+}
+
+/* Style for childsummaries shortcode. */
+.childsummaries table {
+    border: 0px;
+    padding: 0px;
+}
+
+.childsummaries td {
+    border: 0px;
+    padding: 0px;
+}
+
+.childsummaries h4 {
+    font-size: 1.25rem;
+    margin: 0.5rem 0 0 0;
+}
+
+.childsummaries p {
+    margin: 0;
+}

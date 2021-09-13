@@ -14,3 +14,5 @@ you have them, great. If not, don't fret.
 Note that although in some cases there are suggestions on equipment that
 you can use, I have no affiliation with any of these items or their
 manufacturers.
+
+{{< childsummaries >}}

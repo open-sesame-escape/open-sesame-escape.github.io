@@ -1,6 +1,8 @@
 ---
 title: "3D Printer"
 weight: 100
+summary: "You don't need a 3D printer, but if you have access to one, you
+can fabricate items quickly."
 ---
 
 To be clear, you do _not_ need a 3D printer to create an escape room.

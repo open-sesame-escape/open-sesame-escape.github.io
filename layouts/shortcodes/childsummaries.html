@@ -1,0 +1,27 @@
+
+
+<div class="childsummaries"><table>
+
+  {{ range .Page.Pages }}
+  <tr>
+    <td width="55px" style="padding-right:5px;">
+      <a href="{{ .RelPermalink }}">
+	{{ if .Params.thumbnail }}
+	<img width="50px" height="50px"
+	     src="/img/thumbnails/{{ .Params.thumbnail }}"
+	     alt="{{ .Title }}"/>
+	{{ else }}
+	<img width="50px" height="50px"
+	     src="/img/thumbnails/blank.png"
+	     alt="{{ .Title }}"/>
+	{{ end }}
+      </a>
+    </td>
+    <td>
+      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+      <p>{{ .Summary }}</p>
+    </td>
+  </tr>
+  {{ end }}
+
+</table></div>

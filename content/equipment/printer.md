@@ -1,6 +1,8 @@
 ---
 title: "Printer"
 weight: 30
+summary: "A computer and printer will make easier to create and manage
+notes and hints."
 ---
 
 Any escape room is bound to have numerous notes, instructions, and labels.
