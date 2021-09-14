@@ -1,9 +1,12 @@
 ---
 title: "3D Printer"
 weight: 100
+thumbnail: "3d-printer.jpg"
 summary: "You don't need a 3D printer, but if you have access to one, you
 can fabricate items quickly."
 ---
+
+{{< figure src="/img/equipment/3d-printer.jpg" class="image-right" >}}
 
 To be clear, you do _not_ need a 3D printer to create an escape room.
 Although there are many affordable options, 3D printing is a hobby onto

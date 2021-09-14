@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 weight:
-thumbnail: ""
+thumbnail: "blank.png"
 summary: ""
 ---
 

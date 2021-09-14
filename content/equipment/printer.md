@@ -1,9 +1,12 @@
 ---
 title: "Printer"
 weight: 30
+thumbnail: "printer.jpg"
 summary: "A computer and printer will make easier to create and manage
 notes and hints."
 ---
+
+{{< figure src="/img/equipment/printer.jpg" class="image-right" >}}
 
 Any escape room is bound to have numerous notes, instructions, and labels.
 Creating these items is usually easier and faster with a computer and
