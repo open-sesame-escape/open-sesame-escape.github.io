@@ -1,5 +1,6 @@
 {{ $fontFamily := "font-family: 'Architects Daughter', 'Lucida Handwriting', Cursive;" }}
 {{ $fontVariant := ";" }}
+{{ $style := ";" }}
 {{ with .Params }}
   {{ if eq .font "normal" }}
     {{ $fontFamily = ";" }}
@@ -7,10 +8,15 @@
   {{ if .caps }}
     {{ $fontVariant = "font-variant: small-caps;" }}
   {{ end }}
+  {{ if .style }}
+    {{ $style = .style }}
+  {{ end }}
 {{ end }}
 <div style="box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+	    padding: 1px 16px 1px 16px;
 	    {{ safeCSS $fontFamily }}
 	    {{ safeCSS $fontVariant }}
+	    {{ safeCSS $style }}
 	    ">
   {{ .Inner }}
 </div>
