@@ -3,7 +3,7 @@ title: "Capital Letters"
 weight: 20
 thumbnail: "capital-letters.png"
 summary: "The capital letters in the message don't follow grammar. That's
-because they spell out a message."
+because they spell out a secret."
 ---
 
 Instead of [highlighting letters](../highlight-letters) using a change in
