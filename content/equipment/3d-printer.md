@@ -17,3 +17,13 @@ fabricate items as you need them, which can make life easier. If you have
 one, you will probably use it. But if you don't, it will still be possible
 to find, buy, construct, or jury-rig everything you need for a great at
 home escape room.
+
+One particularly useful thing I have found to print are [latches that can
+be used with padlocks]. It is convenient to scale and print these to the
+type of padlocks you have and then glue them to makeshift containers like
+cardboard boxes. Again, you don't need a 3D printer to create these. You
+can probably find something similar at your hardware store or just
+improvise by wrapping [string] around the box connected with the lock. But
+if you have the printer, it can simplify things.
+
+[latches that can be used with padlocks]: https://www.thingiverse.com/thing:24999
