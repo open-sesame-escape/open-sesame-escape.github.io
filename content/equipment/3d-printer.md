@@ -27,3 +27,4 @@ improvise by wrapping [string] around the box connected with the lock. But
 if you have the printer, it can simplify things.
 
 [latches that can be used with padlocks]: https://www.thingiverse.com/thing:24999
+[string]: ../string
