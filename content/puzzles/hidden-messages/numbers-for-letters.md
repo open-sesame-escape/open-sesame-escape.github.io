@@ -1,6 +1,6 @@
 ---
 title: "Numbers for Letters"
-weight:
+weight: 30
 thumbnail: "numbers-for-letters.png"
 summary: "Hide a number code by replacing letters in a message with similar
 looking numbers."
