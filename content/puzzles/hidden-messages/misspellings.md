@@ -5,10 +5,10 @@ thumbnail: "misspellings.png"
 summary: "Hide a phrase in a note by intentionally misspelling words."
 ---
 
-Hopefully as you create notes and other material for your escape room, you
+Hopefully, as you create notes and other material for your escape room, you
 are doing some proofreading to ensure that the language is correct. But,
 sometimes you can intentionally introduce mistakes to highlight words that
-spell out a secret message. One simple such mistake is a misspelling of a
+add up to a secret message. One simple such mistake is a misspelling of a
 word.
 
 {{% example %}}
@@ -31,5 +31,6 @@ clue on where to find an important item.
 Make sure that your misspellings are egregious (that is, easy to spot) but
 also unmistakable for the word they are supposed to represent. Players need
 to be able to pick out the words but still be able to understand them. Keep
-in mind the reading level of players. Young children or English as a second
-language players are likely to have more trouble with a puzzle like this.
+in mind the reading level of players. Young children or
+English-as-a-second-language players are likely to have more trouble with a
+puzzle like this. 
