@@ -15,3 +15,14 @@ abnormal ways.
 These pages provide suggestions on puzzles you might use for your own
 escape rooms.
 
+**TODO:**
+  * Decoder devices
+    * Decoder ring/wheel
+	* Cup cryptex
+    * Code Gears
+  * Side of the stack
+    * Deck of cards
+	* Sort index cards
+	* Blocks and grooves
+	  * Blocks of wood sliced with grooves with a table saw.
+	  * Stack blocks to align grooves. Holes in side show passcode
