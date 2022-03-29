@@ -17,5 +17,3 @@ escape room puzzles.
   * Symbol Substitution Cipher
   * Pigpen Cipher
   * Run length encoding
-
-{{< childsummaries >}}

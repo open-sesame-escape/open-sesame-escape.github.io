@@ -29,3 +29,7 @@
 .childsummaries p {
     margin: 0;
 }
+
+.childsubsection td {
+    padding-bottom: 1rem;
+}
