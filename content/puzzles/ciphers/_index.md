@@ -14,6 +14,6 @@ cipher to restore the plain text. Here are some ciphers appropriate for
 escape room puzzles.
 
 **TODO:**
-  * Symbol Substitution Cipher
   * Pigpen Cipher
+  * Morse Code
   * Run length encoding
