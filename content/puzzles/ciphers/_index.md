@@ -12,8 +12,3 @@ unrecognizable. When used as an escape room puzzle, the players get the
 unrecognizable encrypted text and need to find and apply the appropriate
 cipher to restore the plain text. Here are some ciphers appropriate for
 escape room puzzles.
-
-**TODO:**
-  * Pigpen Cipher
-  * Morse Code
-  * Run length encoding
