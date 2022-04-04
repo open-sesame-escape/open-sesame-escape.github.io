@@ -3,10 +3,17 @@
 <div style="box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 	    padding: 1px 16px 1px 16px;">
   {{ if .Params.link }}
-    <a href="{{ .Params.link }}">
+  <a href="{{ .Params.link }}">
+  {{ else }}
+  <a href="{{ $imageSrc }}">
   {{ end }}
-  <img src="{{ $imageSrc }}" />
-  {{ if .Params.link }}
-    </a>
-  {{ end }}
+    <img src="{{ $imageSrc }}" class="inline"
+         {{ if .Params.width }}
+         width="{{ .Params.width }}"
+         {{ end }}
+         {{ if .Params.height }}
+         width="{{ .Params.height }}"
+         {{ end }}
+         />
+  </a>
 </div>
