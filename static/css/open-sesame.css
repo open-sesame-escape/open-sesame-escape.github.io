@@ -5,6 +5,12 @@
     margin: 0px;
 }
 
+/* Size tables to their natural width. Inherited style sizes full width. */
+table {
+    width: unset;
+    max-width: 100%;
+}
+
 /* Undo the odd top/bottom margin for images. */
 #body img {
     margin: 0px;

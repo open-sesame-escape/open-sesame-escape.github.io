@@ -1,7 +1,5 @@
 
 * Ciphers
-  * Pigpen Cipher
-  * Morse Code
   * Run length encoding
 * Paper and Pencil
   * Crossword
