@@ -16,12 +16,19 @@
     * Works well when grid covers a map or image
       * Players find symbol in grid cell
     * Links: symbol substitution cipher, symbol algebra
+  * Ribbon and Rod
+* Coded objects
+  * Box of mystery
+    * Players reach in to read code with hand
+    * Links: Braille
+  * Shadow message
+    * Shine light on popsicle sticks
 * Side of the stack
   * Deck of cards
-    * Sort index cards
-    * Blocks and grooves
-      * Blocks of wood sliced with grooves with a table saw.
-      * Stack blocks to align grooves. Holes in side show passcode
+  * Sort index cards
+  * Blocks and grooves
+    * Blocks of wood sliced with grooves with a table saw.
+    * Stack blocks to align grooves. Holes in side show passcode
 * Mirrors
   * Reflected numbers
     * Half digits. Print half of symmetric digits that become whole when
