@@ -1,10 +1,9 @@
 
-* Ciphers
-  * Run length encoding
 * Paper and Pencil
-  * Crossword
+  * Horizontal fill in
   * Symbol algebra
     * Links: Symbol substitution cipher
+  * Word find -> spell numbers
 * Decoder devices
   * Decoder ring/wheel
   * Cup cryptex
@@ -17,6 +16,10 @@
       * Players find symbol in grid cell
     * Links: symbol substitution cipher, symbol algebra
   * Ribbon and Rod
+* Coded pictures
+  * Run length encoding
+  * Color by coordinates
+  * Pegs and string
 * Coded objects
   * Box of mystery
     * Players reach in to read code with hand
@@ -36,3 +39,6 @@
   * Mirrored pigpen cipher
   * Light box: No mirror. You have to put a thin paper on a light box to
     see "reflection"
+* Construction puzzles
+  * Jigsaw
+  * Connected "wires"

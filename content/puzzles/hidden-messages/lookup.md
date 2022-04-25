@@ -40,3 +40,9 @@ capitalizes these words to help players make this connection and pick out
 the appropriate words.) The words to pick out are "Day", "Lips",
 "Eyebrows", and "Knife", which correspond to the digits 4, 4, 8, and 2,
 respectively. Thus, the passcode is 4482.
+
+A variant of this method is the [crossword lookup] where instead of
+providing the code-word lookup in a list, it is hidden in a crossword
+puzzle.
+
+[crossword lookup]: /puzzles/paper-and-pencil/crossword-lookup/
