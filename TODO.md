@@ -1,6 +1,5 @@
 
 * Paper and Pencil
-  * Horizontal fill in
   * Symbol algebra
     * Links: Symbol substitution cipher
   * Word find -> spell numbers

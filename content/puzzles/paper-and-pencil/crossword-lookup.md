@@ -1,7 +1,7 @@
 ---
 title: "Crossword Lookup"
 date: 2022-04-24T18:09:57-06:00
-weight:
+weight: 10
 thumbnail: "crossword-lookup.png"
 summary: "Use the solution of a crossword puzzle as a word lookup to find a code."
 ---
