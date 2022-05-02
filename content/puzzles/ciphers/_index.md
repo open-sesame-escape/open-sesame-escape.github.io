@@ -1,7 +1,7 @@
 ---
 title: "Ciphers"
 date: 2022-03-27T16:18:56-06:00
-weight: 30
+weight: 20
 thumbnail: "blank.png"
 summary: "A simple way to hide a message is to use a cipher to turn text into gibberish."
 ---

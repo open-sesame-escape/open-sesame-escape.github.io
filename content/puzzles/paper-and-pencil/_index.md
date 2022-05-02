@@ -1,7 +1,7 @@
 ---
 title: "Paper and Pencil"
 date: 2022-04-19T20:47:33-06:00
-weight: 20
+weight: 30
 thumbnail: "blank.png"
 summary: "Incorporate classic written puzzles to find larger puzzles in the escape room."
 ---

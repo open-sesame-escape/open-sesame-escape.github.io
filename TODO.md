@@ -1,7 +1,5 @@
 
 * Paper and Pencil
-  * Symbol algebra
-    * Links: Symbol substitution cipher
   * Word find -> spell numbers
 * Decoder devices
   * Decoder ring/wheel

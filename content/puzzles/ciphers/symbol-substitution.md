@@ -39,10 +39,10 @@ GO NORTH AND THEN WEST. THEN GO SOUTH, SOUTHWEST, AND EAST.
 
 One of the nice things about using a symbol substitution cipher is that the
 symbols can be unique and be used across multiple puzzles. Rather than give
-the table directly, a seprate puzzle, like symbol algebra. And rather than
+the table directly, a seprate puzzle, like [symbol algebra]. And rather than
 give a message of symbols outright, the symbols and order can be extracted
 from another puzzle, like the grid lookup.
 
 
 [alphabetic substitution cipher]: ../alphabetic-substitution/
-
+[symbol algebra]: /puzzles/paper-and-pencil/symbol-algebra
