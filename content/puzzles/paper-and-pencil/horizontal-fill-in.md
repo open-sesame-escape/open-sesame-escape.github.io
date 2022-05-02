@@ -2,7 +2,7 @@
 title: "Horizontal Fill In"
 date: 2022-04-30T22:44:50-06:00
 weight: 20
-thumbnail: "blank.png"
+thumbnail: "horizontal-fill-in.png"
 summary: "Solving for words in a list reveals a crosswise code word."
 ---
 
