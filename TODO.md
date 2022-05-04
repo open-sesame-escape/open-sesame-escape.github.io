@@ -1,6 +1,4 @@
 
-* Paper and Pencil
-  * Word find -> spell numbers
 * Decoder devices
   * Decoder ring/wheel
   * Cup cryptex
