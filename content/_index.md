@@ -1,5 +1,5 @@
 ---
-title: "Open Sesame: Escape Rooms in Your Own Home"
+title: "Open Sesame"
 weight: 0
 ---
 
