@@ -13,7 +13,7 @@ escape room, let us first consider the overall structure of the design. If
 you have participated in an escape room, at any time you were probably
 thinking in terms of the things you found and the locks you had to open.
 But when designing an escape room, it is helpful to think of the structure
-in terms of _rooms_ and _boxes_.
+in terms of _rooms_[^room] and _boxes_.
 
 A room is, well, a room. It is a space in which players can roam. It also
 contains clues, items, and boxes as well as potential passages to other
@@ -246,5 +246,10 @@ Although the proctor does not get to play the game (you already know all
 the answers), administering an escape room is a fun and rewarding
 experience in its own right.
 
+[^room]: You may notice that the word "room" is being overloaded here. The
+    game that is colloquially refereed to as an "escape room" often
+    actually comprises multiple physical "rooms". To be clear, we are using
+    the phrase "escape room" to refer to the game as a whole whereas the
+    single word "room" means a specific partition of the space.
 
 [puzzles]: /puzzles
