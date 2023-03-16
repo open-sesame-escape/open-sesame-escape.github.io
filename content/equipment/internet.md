@@ -66,7 +66,7 @@ Google Form inside of a Google Site so you can mix form and other HTML
 elements.
 
 
-[search the web for them]: https://lmgtfy.com/?q=qr+code+generator
+[search the web for them]: https://www.google.com/search?q=qr+code+generator
 [QR Stuff]: https://www.qrstuff.com/
 [Google Docs]: https://docs.google.com/
 [Dropbox]: https://www.dropbox.com/
