@@ -37,3 +37,9 @@
 * Construction puzzles
   * Jigsaw
   * Connected "wires"
+* QR construction
+  * Jigsaw QR
+  * Rubix Puzzle
+  * Fold-in
+  * Fold to back
+  * Back of door
