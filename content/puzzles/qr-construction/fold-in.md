@@ -3,7 +3,7 @@ title: "QR Fold In"
 date: 2023-03-22T18:59:36-06:00
 weight:
 thumbnail: "qr-fold-in.png"
-summary: "Complete a QR code by using simple Oragami folds."
+summary: "Complete a QR code by using simple Origami folds."
 ---
 
 This puzzle presents the players with a piece of paper with pieces of QR
