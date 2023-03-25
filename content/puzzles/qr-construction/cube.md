@@ -1,7 +1,7 @@
 ---
 title: "QR Cube"
 date: 2023-03-25T14:41:38-06:00
-weight:
+weight: 100
 thumbnail: "qr-cube.png"
 summary: "Solve a 3D rotating cube puzzle to expose a QR code."
 ---

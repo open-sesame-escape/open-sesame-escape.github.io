@@ -38,6 +38,6 @@
   * Jigsaw
   * Connected "wires"
 * QR construction
-  * Jigsaw QR
+  * Overlap QR
   * Fold to back
   * Back of door
