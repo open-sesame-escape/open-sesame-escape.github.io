@@ -39,6 +39,5 @@
   * Connected "wires"
 * QR construction
   * Jigsaw QR
-  * Rubix Puzzle
   * Fold to back
   * Back of door
