@@ -15,7 +15,7 @@ internet. Here are some free resources to set that up.
 
 ## QR Codes
 
-{{< figure src="/img/equipment/qr-example.jpg" class="image-right" >}}
+{{< figure src="qr-example.jpg" class="image-right" >}}
 
 A QR code is the name for those square computer codes like that shown here.
 They are very convenient for taking a smartphone to a specific web site.

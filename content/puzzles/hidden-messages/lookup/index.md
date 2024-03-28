@@ -27,10 +27,7 @@ again. I'll bring Mr. Knife for luck.
 This message alone does not provide anything of value. However, in another
 box the players find this page from a scientific psychology paper.
 
-{{< example-image
-      src="/img/puzzles/hidden-messages/code-word-lists.png"
-	  link="/docs/puzzles/hidden-messages/code-word-lists.pdf"
-	  >}}
+{{< example-image src="code-word-lists.png" link="code-word-lists.pdf" >}}
 
 Most of the text of this "paper" is nonsense. The important part is the
 enumerated lists provided. To solve the puzzle, the players have to match

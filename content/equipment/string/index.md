@@ -5,7 +5,7 @@ thumbnail: "string.jpg"
 summary: "Have some string on hand to help improvise locks and devices."
 ---
 
-{{< figure src="/img/equipment/string.jpg" class="image-right" >}}
+{{< figure src="string.jpg" class="image-right" >}}
 
 It is always good to have some string on hand when setting up your escape
 room. Your escape room will almost certainly require some amount of

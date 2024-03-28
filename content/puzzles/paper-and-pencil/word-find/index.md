@@ -15,12 +15,12 @@ a pattern to reveal a code.
 
 Here is an example of a word find.
 
-{{< example-image src="/img/puzzles/paper-and-pencil/word-find.png" >}}
+{{< example-image src="word-find.png" >}}
 
 As with any word find, the target words are difficult to spot. With some
 searching, the words can be found as follows.
 
-{{< example-image src="/img/puzzles/paper-and-pencil/word-find-solved.png" >}}
+{{< example-image src="word-find-solved.png" >}}
 
 Looking carefully, we can see the marks are arranged in the pattern of a
 4-digit code: 4710.

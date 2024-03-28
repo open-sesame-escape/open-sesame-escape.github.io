@@ -16,17 +16,14 @@ The horizontal fill in puzzle starts with a piece of paper with a grid with
 a clue along each row. One of the columns will have a bold box. Here is an
 example of a horizontal fill in.
 
-{{< example-image
-    src="/img/puzzles/paper-and-pencil/horizontal-fill-in.svg" >}}
+{{< example-image src="horizontal-fill-in.svg" >}}
 
 Given only this grid, there is no reasonable way the players can be
 expected to fill it in. But as they explore the room, they will find
 innocuous items that hint at the answers. One such item could be a business
 card like the following.
 
-{{< example-image
-    src="/img/puzzles/paper-and-pencil/fortunato-business-card.svg"
-    width="400px">}}
+{{< example-image src="fortunato-business-card.svg" width="400px">}}
 
 The players might not know what a sommelier is, but the description at the
 bottom should lead them to know that "Fortunato" is the "wine expert" of
@@ -34,9 +31,7 @@ the first line.
 
 Likewise, there might be a portrait like the following on the wall.
 
-{{< example-image
-    src="/img/puzzles/paper-and-pencil/lasalle-portrait.jpg"
-    width="450px">}}
+{{< example-image src="lasalle-portrait.jpg" width="450px">}}
 
 <!--
 Portrait is of Marechal Ney.
@@ -50,8 +45,7 @@ fits the clue for the second line in the puzzle.
 Once players find all the items around the room and make the connection to
 the puzzle, they can complete the puzzle and get a result like this.
 
-{{< example-image
-    src="/img/puzzles/paper-and-pencil/horizontal-fill-in-solved.svg" >}}
+{{< example-image src="horizontal-fill-in-solved.svg" >}}
     
 With the puzzle filled out, we can read a code word in the vertical column
 with a bold outline: RAVEN.

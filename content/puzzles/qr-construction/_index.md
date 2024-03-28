@@ -28,7 +28,7 @@ the QR code and having the player fix it.
 ### Changes you can make to QR codes
 
 QR codes are designed to be quite resilient to change. Because they are
-designed to be scanned from a camera, they are designed to be readable in
+designed to be scanned from a camera, they are readable in
 the face of noise and misalignment. Thus, it is possible to rotate the QR
 code or even flip it upside-down and it will still work.
 
@@ -44,7 +44,7 @@ Surprisingly, QR codes can be mirrored and will still work.
 {{< example-image src="qr-code-mirror.png" >}}
 
 There is redundancy in a QR code's data, and they still can be read when
-certain pats are covered up. In particular, the center part of the QR code
+certain parts are covered up. In particular, the center part of the QR code
 is redundant, and it is common to place a logo there.
 
 {{< example-image src="qr-code-center-image.png" >}}'

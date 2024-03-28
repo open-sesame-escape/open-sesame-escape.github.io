@@ -34,7 +34,7 @@ visually. To make this more challenging, hide the Braille letters in
 objects or images that naturally have grids. Here is an example of hiding a
 Braille message in the windows of a skyline.
 
-{{< example-image src="/img/puzzles/cipher/braille-skyline.svg" >}}
+{{< example-image src="braille-skyline.svg" >}}
 
 The image looks like ordinary drawing of buildings. But a closer look
 reveals that all the windows are grouped in 2x3 grids like Braille letters

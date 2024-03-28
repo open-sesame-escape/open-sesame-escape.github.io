@@ -20,7 +20,7 @@ your own (or use the makeshift solution at the end).
 
 ## Digit Locks
 
-{{< figure src="/img/equipment/digit-lock.jpg" class="image-right" >}}
+{{< figure src="digit-lock.jpg" class="image-right" >}}
 
 Often, it is easiest to create puzzles that make numbers, so most of the
 locks I use are number combination locks. You will want something where you
@@ -53,7 +53,7 @@ one for numbers), they work quite well.
 
 ## Directional Locks
 
-{{< figure src="/img/equipment/directional-lock.jpg" class="image-right" >}}
+{{< figure src="directional-lock.jpg" class="image-right" >}}
 
 Master Lock sells a [directional lock] that has a knob on front that you
 push up/down/left/right to form a pattern. You can set it to your own
@@ -68,7 +68,7 @@ seen more than one used in any escape room.
 
 ## Key Locks
 
-{{< figure src="/img/equipment/key-lock.jpg" class="image-right" >}}
+{{< figure src="key-lock.jpg" class="image-right" >}}
 
 You can also use locks that open with a key. Key locks are available in
 just about any size you need.
