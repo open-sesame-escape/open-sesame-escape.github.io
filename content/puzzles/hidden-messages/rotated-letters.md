@@ -1,7 +1,7 @@
 ---
 title: "Rotated Letters"
 thumbnail: "rotated-letters.png"
-weight: 40
+weight: 50
 summary: "Spell out a secret word by rotating or flipping letters."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Misspellings"
-weight: 50
+weight: 60
 thumbnail: "misspellings.png"
 summary: "Hide a phrase in a note by intentionally misspelling words."
 ---

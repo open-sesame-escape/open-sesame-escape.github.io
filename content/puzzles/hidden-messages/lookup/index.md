@@ -1,6 +1,6 @@
 ---
 title: "Code-Word Lookup"
-weight: 60
+weight: 70
 thumbnail: "lookup.png"
 summary: "A meaningless message reveals a clue when paired with a separate list of code words."
 ---
