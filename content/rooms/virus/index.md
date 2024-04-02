@@ -114,6 +114,23 @@ compound.
 {{% /example %}}
 
 
+## Finding the Doctor's Stash (Box 3)
+
+Dr. Beaker has hiding a secret stash of "oregano." She has also misplaced
+some critical items that the players need with this stash, so they will
+have to find it.
+
+**Suggested puzzle** The [crossword lookup] puzzle works well here. The
+crossword itself can be simply found in the room as something someone
+randomly left. A player can solve the crossword while others solve other
+parts. You will likely need to create a custom crossword to match some
+sequence of items in the room.
+
+The resulting code opens a box containing some items required for later
+puzzles. I personally also place a small baggie of oregano, which has no
+practical value but adds some humor.
+
+
 ## Flow Diagram
 
 The materials and suggested puzzles of this escape room follow the
@@ -131,3 +148,4 @@ graph TB;
 [web document]: /equipment/internet/#web-site-builders
 [hidden message]: /puzzles/hidden-messages/
 [number words]: /puzzles/hidden-messages/number-words/
+[crossword lookup]: /puzzles/paper-and-pencil/crossword-lookup/

@@ -17,11 +17,11 @@ like the [code-word lookup] puzzle except the word lookup is less obvious.
 Here is an example of how this puzzle might work. We could start with
 providing this crossword.
 
-{{< example-image src="/img/puzzles/paper-and-pencil/crossword.svg" >}}
+{{< example-image src="crossword.svg" >}}
 
 Players need to solve this puzzle. Here is the completed crossword.
 
-{{< example-image src="/img/puzzles/paper-and-pencil/crossword-solved.svg" >}}
+{{< example-image src="crossword-solved.svg" >}}
 
 Again, the crossword should be easy to complete. You can provide some
 answers before you start to help.
@@ -30,7 +30,7 @@ At first, solving the crossword does not seem to have helped. But, the
 second part of the puzzle is a sequence of items. For example, this shelf
 of animal figurines.
 
-{{< example-image src="/img/puzzles/paper-and-pencil/animal-shelf.jpeg" >}}
+{{< example-image src="animal-shelf.jpeg" >}}
 
 On this shelf are 4 animals in the following order: dolphin, rabbit,
 dragon, and seal. The trick is to recognize that these words are also in
