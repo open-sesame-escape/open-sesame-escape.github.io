@@ -57,11 +57,11 @@ her private lab.
 ---
 
 Good job! You have reestablished my connection to our communication and
-research notes. Since General Halftrack isolated me three days ago, I have
+research notes. Since General Halftrack isolated me 3 days ago, I have
 been desperate  for help.
 
 To start, I need you to find the formula to the virus treatment that I
-developed merely one day before I left for this emergency trip. Sensing
+developed merely 2 day before I left for this emergency trip. Sensing
 danger, I locked away my notes, and it appears I was right to do so. I
 cannot give you instructions directly over this insecure channel, but you
 are clever and I know you will figure it out.
@@ -70,10 +70,47 @@ Next, I need you create a secure cryptographic link to me so that we can
 talk more freely. This can only be done from within my private lab. My lab
 is locked, so you will have to break in.
 
-These sixteen weeks on the road have been exhausting, and I'm so glad to be
+These 16 weeks on the road have been exhausting, and I'm so glad to be
 able to talk to you again.
 
 --Suzzy
+{{% /example %}}
+
+
+## Getting the Formula (Box 2)
+
+Per Dr. Beaker's email, the players need to find the formula for treatment.
+Because the email is not secure, Dr. Beaker cannot overtly say how to get
+the formula. But the email contains a hidden code that is used to open a
+box revealing some of Dr. Beaker’s lab notes containing the formula (and
+multiple other items used later).
+
+**Suggested puzzle:** Dr. Beaker's email contains a [hidden message] with a
+code to the box containing her formula. The previously shown message fits
+will with the [number words] puzzle. [This online
+document](email-help-easier.html) can be a target for this puzzle. For a
+more challenging puzzle (with less obvious numbers), [this document can be
+used](email-help-harder.html).
+
+Once open, the box contains lab notes describing a formula Dr. Beaker has
+been working on.
+
+{{% example %}}
+
+Lab notes of Dr. Susan Beaker
+
+We have made good progress on a formula to reduce respiratory infection in
+patients. The compound includes the following elements.
+
+* Vanadium
+* Indium
+* Carbon
+* Iodine
+* Cobalt
+
+The formula is currently unstable, but we have high hopes to stabilize the
+compound.
+
 {{% /example %}}
 
 
@@ -85,9 +122,12 @@ following flow diagram.
 {{< mermaid align="center" >}}
 graph TB;
   R1[Room 1: Office Space] --> B1(Box 1: Reestablish Email) & B3(Box 3: 'Oregano' Stash)
+  B1(Box 1: Reestablish Email) --> B2(Box 2: Getting the Formula)
 {{< /mermaid >}}
 
 
 [QR fold-in]: /puzzles/qr-construction/fold-in/
 [online document]: /equipment/internet/#online-documents
 [web document]: /equipment/internet/#web-site-builders
+[hidden message]: /puzzles/hidden-messages/
+[number words]: /puzzles/hidden-messages/number-words/
