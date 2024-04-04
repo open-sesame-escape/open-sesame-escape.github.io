@@ -21,7 +21,7 @@
     * Links: Braille
   * Shadow message
     * Shine light on popsicle sticks
-* Side of the stack
+* Orders and Arrangement
   * Deck of cards
   * Sort index cards
   * Blocks and grooves
