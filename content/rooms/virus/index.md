@@ -6,7 +6,7 @@ thumbnail: "virus.png"
 summary: "A new virus outbreak is becoming the next pandemic. Your team must work quickly to avert a world-wide disaster."
 ---
 
-## Scenario (First Room: Office Space)
+## Scenario
 
 The players are researchers at a microbiology and infectious diseases
 laboratory. The lead researcher of the lab, Dr. Sarah Beaker, has been away
@@ -36,6 +36,16 @@ Dr. Beaker is stranded without communication. The players need to
 reestablish this communication.
 
 [contains a note]: initial-mail.pdf
+
+
+## Office Space (Room 1)
+
+The players start in a room themed as standard office space. Simple office
+materials (desk, table, chairs, bookshelf) set the theme.
+
+The players start with a packed of material sent from Dr. Beaker. Other
+clue puzzles, particiluar those that are paper based or require a flat
+surface, may also be placed around the room.
 
 
 ## Reestablishing Email (Box 1)
@@ -76,6 +86,10 @@ able to talk to you again.
 --Suzzy
 {{% /example %}}
 
+[QR fold-in]: /puzzles/qr-construction/fold-in/
+[online document]: /equipment/internet/#online-documents
+[web document]: /equipment/internet/#web-site-builders
+
 
 ## Getting the Formula (Box 2)
 
@@ -93,7 +107,7 @@ more challenging puzzle (with less obvious numbers), [this document can be
 used](email-help-harder.html).
 
 Once open, the box contains lab notes describing a formula Dr. Beaker has
-been working on.
+been working on such as this.
 
 {{% example %}}
 
@@ -113,6 +127,9 @@ compound.
 
 {{% /example %}}
 
+[hidden message]: /puzzles/hidden-messages/
+[number words]: /puzzles/hidden-messages/number-words/
+
 
 ## Finding the Doctor's Stash (Box 3)
 
@@ -130,6 +147,38 @@ The resulting code opens a box containing some items required for later
 puzzles. I personally also place a small baggie of oregano, which has no
 practical value but adds some humor.
 
+[crossword lookup]: /puzzles/paper-and-pencil/crossword-lookup/
+
+
+## The Doctor's Lab (Room 2)
+
+According to Dr. Beaker's email, the players need to break into the lab.
+The lab is a second room behind a locked door. The players will have to
+solve a puzzle to unlock the door to this room.
+
+The room itself should be themed like a laboratory. It can have props like
+flasks and tubes that are reminiscent of a lab. More puzzle pieces and
+boxes are placed in this room.
+
+**Suggested puzzle** The [stick word grid] puzzle can be used here. The
+sticks can be hid in box 3 and/or others, and the formula gives the
+arrangement of the sticks. In the example of the formula above, players can
+translate the names of the elements and convert them to element symbols. (A
+periodic table should be provided for reference.) I used the list of
+symbols above to arrange the sticks below to reference a page in a book I
+happened to have on my bookshelf. (A note with the code for the door was on
+that page.)
+
+{{< example-image src="/puzzles/arrangement/stick-word-grid/sticks-vertical-adjust.jpg" >}}
+
+The sticks in this arrangement make for a challenging puzzle. It could be
+made easier by underlining the symbols that should be ordered. It can also
+be simplified (in terms of both creating and solving) by placing the
+element symbols on the top of the sticks and writing any message below
+them.
+
+[stick word grid]: /puzzles/arrangement/stick-word-grid/
+
 
 ## Flow Diagram
 
@@ -140,12 +189,5 @@ following flow diagram.
 graph TB;
   R1[Room 1: Office Space] --> B1(Box 1: Reestablish Email) & B3(Box 3: 'Oregano' Stash)
   B1(Box 1: Reestablish Email) --> B2(Box 2: Getting the Formula)
+  B2(Box 2: Getting the Formula) & B3(Box 3: 'Oregano' Stash) --> R2[Room 2: Lab]
 {{< /mermaid >}}
-
-
-[QR fold-in]: /puzzles/qr-construction/fold-in/
-[online document]: /equipment/internet/#online-documents
-[web document]: /equipment/internet/#web-site-builders
-[hidden message]: /puzzles/hidden-messages/
-[number words]: /puzzles/hidden-messages/number-words/
-[crossword lookup]: /puzzles/paper-and-pencil/crossword-lookup/
