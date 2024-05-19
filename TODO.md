@@ -1,7 +1,7 @@
 
+
 * Decoder devices
   * Decoder ring/wheel
-  * Cup cryptex
   * Code Gears
   * Grid Lookup
     * Each column/row labeled with letter (or number)
@@ -22,6 +22,7 @@
   * Shadow message
     * Shine light on popsicle sticks
 * Orders and Arrangement
+  * Cup cryptex
   * Deck of cards
   * Sort index cards
   * Blocks and grooves
