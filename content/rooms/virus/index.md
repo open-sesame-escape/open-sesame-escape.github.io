@@ -53,7 +53,7 @@ surface, may also be placed around the room.
 Using clues from the package provided by Dr. Beaker's package, the players
 reestablish communication by connecting to her secret email.
 
-**Suggested puzzle:** The package contains a piece of paper containing a
+**Suggested Puzzle:** The package contains a piece of paper containing a
 [QR fold-in]. When scanned, the solved QR code sends a player's phone to an
 [online document] or [web document] that has an email from Dr. Beaker with
 further instructions to find a formula for virus treatment and break into
@@ -96,10 +96,10 @@ able to talk to you again.
 Per Dr. Beaker's email, the players need to find the formula for treatment.
 Because the email is not secure, Dr. Beaker cannot overtly say how to get
 the formula. But the email contains a hidden code that is used to open a
-box revealing some of Dr. Beaker’s lab notes containing the formula (and
+box revealing some of Dr. Beaker's lab notes containing the formula (and
 multiple other items used later).
 
-**Suggested puzzle:** Dr. Beaker's email contains a [hidden message] with a
+**Suggested Puzzle:** Dr. Beaker's email contains a [hidden message] with a
 code to the box containing her formula. The previously shown message fits
 will with the [number words] puzzle. [This online
 document](email-help-easier.html) can be a target for this puzzle. For a
@@ -137,7 +137,7 @@ Dr. Beaker has hiding a secret stash of "oregano." She has also misplaced
 some critical items that the players need with this stash, so they will
 have to find it.
 
-**Suggested puzzle** The [crossword lookup] puzzle works well here. The
+**Suggested Puzzle** The [crossword lookup] puzzle works well here. The
 crossword itself can be simply found in the room as something someone
 randomly left. A player can solve the crossword while others solve other
 parts. You will likely need to create a custom crossword to match some
@@ -160,7 +160,7 @@ The room itself should be themed like a laboratory. It can have props like
 flasks and tubes that are reminiscent of a lab. More puzzle pieces and
 boxes are placed in this room.
 
-**Suggested puzzle** The [stick word grid] puzzle can be used here. The
+**Suggested Puzzle** The [stick word grid] puzzle can be used here. The
 sticks can be hid in box 3 and/or others, and the formula gives the
 arrangement of the sticks. In the example of the formula above, players can
 translate the names of the elements and convert them to element symbols. (A
@@ -180,6 +180,44 @@ them.
 [stick word grid]: /puzzles/arrangement/stick-word-grid/
 
 
+## Random Lab Stuff (Box 4)
+
+Not much to advance the plot here. The players rummage through the lab to
+find more clues.
+
+**Suggested Puzzle** You can use a [paper segment display] to provide a
+code. The coded pattern can be provided in a box in the previous room, and
+the decoder device in the room.
+
+[paper segment display]: /puzzles/decoders/paper-segment-display/
+
+
+## A Mutation (Box 5)
+
+On entering the lab, the players search around to find notes from Dr.
+Beaker about the progression of the NEONORO virus.
+
+**Suggested Puzzle** One of the items in the lab is a container
+containing a key and a faux caustic liquid. The players must [fish the key
+with a magnet] provided in a previous box.
+
+Along with other clues, this box contains a note with progression of the
+NEONORO virus and further instructions.
+
+{{% example %}}
+
+I have discovered something very strange about this recent mutation of the
+NEONORO. We are starting to see some very unique behavior.
+
+I need to talk to you securely. Hack into our encrypted system so that we
+can send messages freely.
+
+Suzy
+{{% /example %}}
+
+[fish the key with a magnet]: /puzzles/tools/magnet-fishing/
+
+
 ## Flow Diagram
 
 The materials and suggested puzzles of this escape room follow the
@@ -187,7 +225,11 @@ following flow diagram.
 
 {{< mermaid align="center" >}}
 graph TB;
-  R1[Room 1: Office Space] --> B1(Box 1: Reestablish Email) & B3(Box 3: 'Oregano' Stash)
-  B1(Box 1: Reestablish Email) --> B2(Box 2: Getting the Formula)
-  B2(Box 2: Getting the Formula) & B3(Box 3: 'Oregano' Stash) --> R2[Room 2: Lab]
+  R1[Room 1: Office Space] --> B1 & B3
+  B1(Box 1: Reestablish Email) --> B2
+  B2(Box 2: Getting the Formula) --> R2
+  B3(Box 3: 'Oregano' Stash) --> R2
+  R2(Room 2: Lab) --> B4 & B5
+  B4(Box 4: Lab Stuff)
+  B5(Box 5: A Mutation)
 {{< /mermaid >}}
