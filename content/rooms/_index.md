@@ -1,5 +1,5 @@
 ---
-title: "Rooms"
+title: "Escape Rooms"
 weight: 40
 ---
 
