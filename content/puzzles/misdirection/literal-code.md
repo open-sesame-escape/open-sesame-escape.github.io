@@ -1,6 +1,6 @@
 ---
-title: "In Plain Sight"
-weight: 100
+title: "Literal Code"
+weight: 10
 thumbnail: "duh.png"
 summary: "The message literally gives a code, but the context implies a different meaning."
 ---
