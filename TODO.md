@@ -1,5 +1,3 @@
-
-
 * Decoder devices
   * Decoder ring/wheel
   * Code Gears
@@ -11,6 +9,11 @@
       * Players find symbol in grid cell
     * Links: symbol substitution cipher, symbol algebra
   * Ribbon and Rod
+  * Pendants reach to numbers
+    * One or more images with peg in middle.
+    * Different pendents hang on pegs
+    * Pendant can be rotated around to find number at correct distance from peg.
+    * Probably good to have first number to be straight down to lead players on how to solve
 * Coded pictures
   * Run length encoding
   * Color by coordinates
@@ -41,3 +44,6 @@
   * Overlap QR
   * Fold to back
   * Back of door
+* Update online examples to use real web page for virus
+  * update COVID-19 with NEONORO
+  * Remove player names

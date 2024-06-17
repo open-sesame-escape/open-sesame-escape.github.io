@@ -231,11 +231,90 @@ must fill out the password.
 However, there are no clues about what the password might be, and there is
 no logical answer. This is an example of a [pointless form], and attempting
 to guess a password is pointless. Instead, players need to notice the
-`Reset Password` link, which will take them to the correct form.
+[Reset Password] link, which will take them to the correct form.
 
 [QR]: /equipment/internet/#qr-codes
 [email login form]: https://sites.google.com/view/morelandsnl-secure-login
 [pointless form]: /puzzles/misdirection/pointless-form/
+[Reset Password]: https://drive.google.com/open?id=1kXNU3kcv5Q12U32K7Pmb9uuSX5Tf8YmZQtKz08gfMw8
+
+
+## Zombies! (Box 7)
+
+The players must hack into Dr. Beaker's personal email to get private
+messages. Once they do so, they can get important information directly from
+Dr. Beaker.
+
+**Suggested Puzzle** The result of [box 6] is a [reset password] form that
+provides a backdoor to accessing the email without knowing the password.
+The reset form has 3 typical questions:
+
+* What are your favorite FOODS?
+* What MONTH were you born?
+* What is the name of your CHILD?
+
+The players don't directly know the answers to these questions, but there
+is a clue to help them figure it out.
+
+Throughout the game the players have been collecting styrofoam cups with
+letters written around the rims. At this point in the game, the players
+have collected 5 such cups. When stacked together, the cups form a
+[cryptex].
+
+{{< example-image src="cryptex-cups.jpg" >}}
+
+The players need to stack the cups in the right order and twist the cups so
+that the highlighted words in the security questions, FOODS, MONTH, and
+CHILD, are spelled on the cups. The remaining letters form the words of the
+answers to the security questions: CANDY, MARCH, and JOHNY.
+
+Once the players enter these words in the [reset password] form, they are
+taken immediately to a [secure note from Dr. Beaker]. At the bottom of the
+note the code to a box of physical items.
+
+{{% example font="normal" %}}
+From:		Dr. Susan Beaker &lt;susan.beaker@cyberdyne.gov&gt;  
+Subject:	Zombies!
+
+---
+
+Thank goodness you were able to get into the lab and access our secure
+communication system! I have a lot to tell you that you must keep secret.
+
+My investigation of NEONORO patients has revealed something startling. We
+all know that 5-10% of patients develop serious respiratory problems. But
+this turns out to be only a minor side effect of the disease. The true
+nature is much, much worse.
+
+We have found that the virus lies dormant in seemingly healthy patients.
+Over the course of about 6 months the virus mutates, and its behavior
+changes. At this point, the disease attacks the cerebrum, drastically
+reducing cognitive function. From there, the virus rapidly progresses to
+the adrenal glands, which respond by generating capacious amounts of
+cortisone and adrenaline. At this point, the patient becomes mindlessly
+aggressive.
+
+For lack of a better term, these victims are turning into zombies. They
+ruthlessly attack any living thing within reach. And as they salivate and
+bite, they continually spread the disease to other victims. I estimate we
+have about 4 days to contain this before we have a global disaster.
+
+Keep this on the down low! In particular, I do not trust General Halftrack.
+The behavior of this virus suggest there might have been some military
+engineering behind it.
+
+Fortunately, I have prepared for this (rather predictable) event. I
+stockpiled some supplies in the laboratory. Unfortunately, I don't remember
+where I put everything. Start by looking in my briefcase. The code is 4288.
+
+Once you have gathered everything, I need you to come to me. Hurry!
+
+--Suzzy
+{{% /example %}}
+
+[box 6]: #email-login-page-box-6
+[cryptex]: /puzzles/arrangement/cup-cryptex/
+[secure note from Dr. Beaker]: https://sites.google.com/view/morelandsnl-secure-message/?usp=sharing
 
 
 ## Flow Diagram
@@ -250,7 +329,8 @@ graph TB;
   B2(Box 2: Getting the Formula) --> R2
   B3(Box 3: 'Oregano' Stash) --> R2
   R2(Room 2: Lab) --> B4 & B5
-  B4(Box 4: Lab Stuff)
+  B4(Box 4: Lab Stuff) --> B7
   B5(Box 5: A Mutation) --> B6
-  B6(Box 6: Login Page)
+  B6(Box 6: Login Page) --> B7
+  B7(Box 7: Zombies!)
 {{< /mermaid >}}
