@@ -218,6 +218,26 @@ Suzy
 [fish the key with a magnet]: /puzzles/tools/magnet-fishing/
 
 
+## Email Login Page (Box 6)
+
+The players must find a way to log in to Dr. Beaker's personal email.
+
+**Suggested Puzzle** The note about the mutation contains a [QR] code that
+links to an [email login form]. The username is provided and the players
+must fill out the password.
+
+{{< example-image src="/puzzles/misdirection/pointless-form/login-form.png" >}}
+
+However, there are no clues about what the password might be, and there is
+no logical answer. This is an example of a [pointless form], and attempting
+to guess a password is pointless. Instead, players need to notice the
+`Reset Password` link, which will take them to the correct form.
+
+[QR]: /equipment/internet/#qr-codes
+[email login form]: https://sites.google.com/view/morelandsnl-secure-login
+[pointless form]: /puzzles/misdirection/pointless-form/
+
+
 ## Flow Diagram
 
 The materials and suggested puzzles of this escape room follow the
@@ -231,5 +251,6 @@ graph TB;
   B3(Box 3: 'Oregano' Stash) --> R2
   R2(Room 2: Lab) --> B4 & B5
   B4(Box 4: Lab Stuff)
-  B5(Box 5: A Mutation)
+  B5(Box 5: A Mutation) --> B6
+  B6(Box 6: Login Page)
 {{< /mermaid >}}
