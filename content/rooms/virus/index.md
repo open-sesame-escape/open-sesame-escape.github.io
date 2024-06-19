@@ -239,7 +239,24 @@ to guess a password is pointless. Instead, players need to notice the
 [Reset Password]: https://drive.google.com/open?id=1kXNU3kcv5Q12U32K7Pmb9uuSX5Tf8YmZQtKz08gfMw8
 
 
-## Zombies! (Box 7)
+## Survival Kit (Box 7)
+
+The NEONORO virus is about to get much worse. The players need to open a
+survival kit. The kit contains foam dart blaster toy guns and part of the
+final clue to the exit door.
+
+**Suggested Puzzle** You can use a [jigsaw holes] puzzle for this box. The
+base board would be placed in the first room, and the first part the fill
+pieces are in an early box. This gives the players an early chance to get
+started and might result in a [fake code]. A final group of puzzle pieces
+in [box 4] reveal the final code.
+
+[jigsaw holes]: /puzzles/construction/jigsaw-holes/
+[fake code]: /puzzles/construction/jigsaw-holes/#fake-code
+[box 4]: #random-lab-stuff-box-4
+
+
+## Zombies! (Box 8)
 
 The players must hack into Dr. Beaker's personal email to get private
 messages. Once they do so, they can get important information directly from
@@ -329,8 +346,9 @@ graph TB;
   B2(Box 2: Getting the Formula) --> R2
   B3(Box 3: 'Oregano' Stash) --> R2
   R2(Room 2: Lab) --> B4 & B5
-  B4(Box 4: Lab Stuff) --> B7
+  B4(Box 4: Lab Stuff) --> B7 & B8
   B5(Box 5: A Mutation) --> B6
-  B6(Box 6: Login Page) --> B7
-  B7(Box 7: Zombies!)
+  B6(Box 6: Login Page) --> B8
+  B7(Box 7: Survival Kit)
+  B8(Box 8: Zombies!)
 {{< /mermaid >}}
