@@ -21,7 +21,7 @@ Throughout the game, players are given puzzle pieces that can be assembled
 in the jigsaw. When all the pieces are correctly placed, a code is
 revealed.
 
-{{< example-image src="jigsaw-half-solved.webp" >}}
+{{< example-image src="jigsaw-half-solved.webp" id="fake-code" >}}
 
 For a fun addition to the puzzle, split the pieces into two sets. The first
 set reveals one set of numbers, which are a red herring. The second set of
