@@ -38,7 +38,6 @@
   * Light box: No mirror. You have to put a thin paper on a light box to
     see "reflection"
 * Construction puzzles
-  * Jigsaw
   * Connected "wires"
 * QR construction
   * Overlap QR
