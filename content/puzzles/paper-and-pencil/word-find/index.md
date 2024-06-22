@@ -1,7 +1,7 @@
 ---
 title: "Word Find"
 date: 2022-05-03T21:07:55-06:00
-weight:
+weight: 40
 thumbnail: "word-find.png"
 summary: "Hide a code in a word find puzzle."
 ---

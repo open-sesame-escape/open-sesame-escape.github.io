@@ -39,10 +39,14 @@
     see "reflection"
 * Construction puzzles
   * Connected "wires"
+* Misdirection
+  * Non-Nonogram
 * QR construction
   * Overlap QR
   * Fold to back
   * Back of door
+* Miscellany
+  * Tea light message
 * Update online examples to use real web page for virus
   * update COVID-19 with NEONORO
   * Remove player names
