@@ -1,10 +1,25 @@
 ---
 title: "Virus"
 date: 2022-07-01T20:39:27-06:00
-weight:
+weight: 10
 thumbnail: "virus.png"
 summary: "A new virus outbreak is becoming the next pandemic. Your team must work quickly to avert a world-wide disaster."
 ---
+
+## Synopsis
+
+_Virus_ is an escape room that follows the players as they battle a new
+pandemic. This is a good place to start if you are creating your first
+escape room. It is a fairly small escape room in terms of the number of
+puzzles and spaces. The suggested puzzles are fairly easy to set up, and
+there is a lot of flexibility in replacing puzzles if you so desire.
+
+The game is divided into two spaces. They are themed first as an office
+space and a laboratory. The [flow diagram] is drawn at the end of this
+page.
+
+[flow diagram]: #flow-diagram
+
 
 ## Scenario
 
@@ -44,7 +59,7 @@ The players start in a room themed as standard office space. Simple office
 materials (desk, table, chairs, bookshelf) set the theme.
 
 The players start with a packed of material sent from Dr. Beaker. Other
-clue puzzles, particiluar those that are paper based or require a flat
+clue puzzles, particular those that are paper based or require a flat
 surface, may also be placed around the room.
 
 
@@ -60,7 +75,7 @@ further instructions to find a formula for virus treatment and break into
 her private lab.
 
 {{% example font="normal" %}}
-**From:** Dr. Susan Beaker <<susan.beaker@cyberdyne.gov>>  
+**From:** Dr. Susan Beaker &lt;susan.beaker@cyberdyne.gov&gt;  
 **To:** Virus Research Team  
 **Subject:** Please help
 
@@ -273,7 +288,7 @@ The reset form has 3 typical questions:
 The players don't directly know the answers to these questions, but there
 is a clue to help them figure it out.
 
-Throughout the game the players have been collecting styrofoam cups with
+Throughout the game the players have been collecting Styrofoam cups with
 letters written around the rims. At this point in the game, the players
 have collected 5 such cups. When stacked together, the cups form a
 [cryptex].
@@ -290,8 +305,9 @@ taken immediately to a [secure note from Dr. Beaker]. At the bottom of the
 note the code to a box of physical items.
 
 {{% example font="normal" %}}
-From:		Dr. Susan Beaker &lt;susan.beaker@cyberdyne.gov&gt;  
-Subject:	Zombies!
+**From:** Dr. Susan Beaker &lt;susan.beaker@cyberdyne.gov&gt;  
+**To:** Virus Research Team  
+**Subject:** Zombies!
 
 ---
 
