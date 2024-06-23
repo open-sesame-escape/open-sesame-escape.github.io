@@ -357,6 +357,27 @@ provide the code for a [directional lock] on the exit door.
 [directional lock]: /equipment/locks/#directional-locks
 
 
+## Attack! (Bonus)
+
+Once the players solve the final puzzle and open the exit door, they have
+completed the escape room. As a fun (optional) bonus reward for completing
+the room, the players get to shoot their way through an onslaught of
+zombies.
+
+To set this bonus up, place some foam dart blaster toy guns (such as Nerf
+guns) in the [survival kit]. Also, print up some pictures of zombies and
+post them on the far side of the exit door. When the players open the exit
+door and see the zombies, you can ramp up the tension by yelling. "Oh, no!
+Zombies. Quick, grab your guns. Shoot your way out!" At this point, the
+players are free to get rambunctious in running around and shooting
+targets.
+
+There is no additional puzzle in this activity. But this is a very fun way
+to end the challenge of your escape room.
+
+[survival kit]: #survival-kit-box-7
+
+
 ## Flow Diagram
 
 The materials and suggested puzzles of this escape room follow the
@@ -374,5 +395,6 @@ graph TB;
   B6(Box 6: Login Page) --> B8
   B7(Box 7: Survival Kit) --> E
   B8(Box 8: Zombies!) --> E
-  E(Exit: Find Dr)
+  E(Exit: Find Dr) --> Bonus
+  Bonus(Bonus: Attack)
 {{< /mermaid >}}
