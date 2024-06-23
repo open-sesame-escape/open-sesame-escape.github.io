@@ -1,7 +1,7 @@
 ---
 title: "Follow Path"
 date: 2024-06-18T22:19:17-04:00
-weight:
+weight: 10
 thumbnail: "maze-path.png"
 summary: "Follow the correct path through the maze and collect the codeword as you go."
 ---
