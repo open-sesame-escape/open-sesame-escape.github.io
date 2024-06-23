@@ -47,7 +47,7 @@ If players are expected to reorder them, it is best to provide each
 location on a separate card to make sorting easier. For a simpler puzzle,
 simply provide the list of locations in the proper order.
 
-Given the clue above, the order in which the locations were visted are as
+Given the clue above, the order in which the locations were visited are as
 follows.
 
 {{% example %}}

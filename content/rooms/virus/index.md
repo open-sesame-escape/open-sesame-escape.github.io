@@ -334,6 +334,29 @@ Once you have gathered everything, I need you to come to me. Hurry!
 [secure note from Dr. Beaker]: https://sites.google.com/view/morelandsnl-secure-message/?usp=sharing
 
 
+## Find Dr. Beaker (Exit)
+
+The final challenge of this escape room is to meet up with Dr. Beaker so
+that she and the players can together battle the NEONORO virus raging the
+planet. This will set the players on a globetrotting adventure following
+her steps.
+
+**Suggested Puzzle** To find Dr. Beaker, they have to follow the path she
+made while in the field investigating the virus. The [map trace] puzzle
+allows players to do this. In the room is a provided map of the world. This
+can be a printed poster, a globe, or board from a game that is played on a
+map.
+
+Scattered in boxes around the room are clues on the locations Dr. Beaker
+has visited, perhaps in the form of airline tickets with departing and
+arrival locations. The players have to put these locations together in the
+proper order and then trace that itinerary on the map. The directions
+provide the code for a [directional lock] on the exit door.
+
+[map trace]: /puzzles/mazes/map-trace/
+[directional lock]: /equipment/locks/#directional-locks
+
+
 ## Flow Diagram
 
 The materials and suggested puzzles of this escape room follow the
@@ -349,6 +372,7 @@ graph TB;
   B4(Box 4: Lab Stuff) --> B7 & B8
   B5(Box 5: A Mutation) --> B6
   B6(Box 6: Login Page) --> B8
-  B7(Box 7: Survival Kit)
-  B8(Box 8: Zombies!)
+  B7(Box 7: Survival Kit) --> E
+  B8(Box 8: Zombies!) --> E
+  E(Exit: Find Dr)
 {{< /mermaid >}}
