@@ -401,7 +401,7 @@ following flow diagram.
 
 {{< mermaid align="center" >}}
 graph TB;
-  R1[Room 1: Office Space] --> B1 & B3
+  R1(Room 1: Office Space) --> B1 & B3
   B1(Box 1: Reestablish Email) --> B2
   B2(Box 2: Getting the Formula) --> R2
   B3(Box 3: 'Oregano' Stash) --> R2
