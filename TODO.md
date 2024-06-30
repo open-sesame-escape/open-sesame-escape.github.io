@@ -41,6 +41,14 @@
   * Connected "wires"
 * Misdirection
   * Non-Nonogram
+  * Red herrings
+* Hiding places
+  * Where not to hide
+  * Underneath
+  * Underside
+  * False bottom
+  * Hint
+  * Map
 * QR construction
   * Overlap QR
   * Fold to back
