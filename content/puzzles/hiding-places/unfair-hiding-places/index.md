@@ -1,7 +1,7 @@
 ---
 title: "Unfair Hiding Places"
 date: 2024-06-27T19:48:30-04:00
-weight:
+weight: 10
 thumbnail: "nope.png"
 summary: "Places where players should not be expected to find clues."
 ---

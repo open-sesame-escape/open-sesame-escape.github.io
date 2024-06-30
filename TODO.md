@@ -43,9 +43,6 @@
   * Non-Nonogram
   * Red herrings
 * Hiding places
-  * Where not to hide
-  * Underneath
-  * Underside
   * False bottom
   * Hint
   * Map
@@ -55,6 +52,11 @@
   * Back of door
 * Miscellany
   * Tea light message
-* Update online examples to use real web page for virus
-  * update COVID-19 with NEONORO
-  * Remove player names
+
+* TODO before posting
+  * Images for underneath and underside
+
+* TODO after posting
+  * Update online examples to use real web page for virus
+    * update COVID-19 with NEONORO
+    * Remove player names
