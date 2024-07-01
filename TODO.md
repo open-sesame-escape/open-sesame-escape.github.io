@@ -44,8 +44,8 @@
   * Red herrings
 * Hiding places
   * False bottom
-  * Hint
   * Map
+    * Should add cut up map
 * QR construction
   * Overlap QR
   * Fold to back

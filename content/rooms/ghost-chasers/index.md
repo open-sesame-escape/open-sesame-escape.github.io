@@ -49,7 +49,8 @@ glasses, forks, knives, etc.
 
 ## Ectoplasm Reveal Tool (Box 1)
 
-The players collet some tools they need for their task.
+The players collect some tools they need for their task. The first tool on
+the list is an "ectoplasm reveal tool."
 
 **Suggested Puzzle** The cutlery in the place settings on the dining
 table look normal. But on the [underside] of the knives are letters. The
@@ -59,11 +60,40 @@ location for players to find a key where they [normally would not look]. I
 made the message "look under chairs".
 
 The key opens a box that contains, among other things, an "ectoplasm reveal
-tool" (an ultraviolet light).
+tool" (an ultraviolet light). It will be used later to reveal secret
+messages.
 
 [underside]: /puzzles/hiding-places/underside/
 [stick word grid]: /puzzles/arrangement/stick-word-grid/
 [normally would not look]: /puzzles/hiding-places/unfair-hiding-places/
+
+
+## EMF Tool (Box 2)
+
+Another tool the players connect is an electromagnetic frequency (EMF)
+detector. An EMF detector reads emissions that come from electric power
+lines and electric devices. Some paranormal investigators believe that
+ghosts can emit electromagnetic radiation and use EMF detectors to attempt
+to find ghosts.
+
+**Suggested Puzzle** Create an imitation EMF that contains a [map of the
+room] that points to the location of a hidden object. The item might be a
+key, which is easy to hide, that opens a larger box.
+
+I created the map as a [simple web site] that imitated the EMF tool and
+provided the map. There are straightforward tools for [publishing web
+sites] even for users with no such experience. An even easier solution is
+to drop a map image as an [online document].
+
+A QR code is used to direct players to the online map. I used a [QR Cube],
+but any [QR puzzle] would work.
+
+[map of the room]: /puzzles/hiding-places/maps/
+[simple web site]: https://sites.google.com/view/morelandsnl-emf-tool/home
+[publishing web sites]: /equipment/internet/#web-site-builders
+[online document]: /equipment/internet/#online-documents
+[QR Cube]: /puzzles/qr-construction/cube/
+[QR puzzle]: /puzzles/qr-construction/
 
 
 ## Flow Diagram
@@ -74,6 +104,7 @@ following flow diagram.
 
 {{< mermaid align="center" >}}
 graph TB;
-  R1(Room 1: Living Space) --> B1
+  R1(Room 1: Living Space) --> B1 & B2
   B1(Box 1: Ectoplasm Tool)
+  B2(Box 2: EMF Tool)
 {{< /mermaid >}}
