@@ -2,7 +2,7 @@
 title: "Ghost Chasers"
 date: 2024-06-23T21:09:13-04:00
 weight:
-thumbnail: "blank.png"
+thumbnail: "ghost-chasers.png"
 summary: "A group of paranormal investigators must chase down ghosts, free souls, and battle evil."
 ---
 
@@ -47,6 +47,25 @@ The room should contain a table with several place settings of plates,
 glasses, forks, knives, etc.
 
 
+## Ectoplasm Reveal Tool (Box 1)
+
+The players collet some tools they need for their task.
+
+**Suggested Puzzle** The cutlery in the place settings on the dining
+table look normal. But on the [underside] of the knives are letters. The
+letters will make little sense at first, but the knives can be put together
+in a [stick word grid]. The words spell out a message that points to a
+location for players to find a key where they [normally would not look]. I
+made the message "look under chairs".
+
+The key opens a box that contains, among other things, an "ectoplasm reveal
+tool" (an ultraviolet light).
+
+[underside]: /puzzles/hiding-places/underside/
+[stick word grid]: /puzzles/arrangement/stick-word-grid/
+[normally would not look]: /puzzles/hiding-places/unfair-hiding-places/
+
+
 ## Flow Diagram
 
 
@@ -55,5 +74,6 @@ following flow diagram.
 
 {{< mermaid align="center" >}}
 graph TB;
-  R1(Room 1: Living Space)
+  R1(Room 1: Living Space) --> B1
+  B1(Box 1: Ectoplasm Tool)
 {{< /mermaid >}}
