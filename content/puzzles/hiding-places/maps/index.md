@@ -2,7 +2,7 @@
 title: "Maps"
 date: 2024-06-30T21:23:58-04:00
 weight:
-thumbnail: "blank.png"
+thumbnail: "maps.png"
 summary: "Provide a map of the room to find a well hidden object."
 ---
 
