@@ -56,6 +56,7 @@
 * TODO before posting
   * Images for underneath and underside
   * Image for reflected code
+  * Images and thumbnail for invisible ink
 
 * TODO after posting
   * Update online examples to use real web page for virus
