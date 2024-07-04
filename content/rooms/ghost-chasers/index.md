@@ -74,12 +74,13 @@ location for players to find a key where they [normally would not look]. I
 made the message "look under chairs".
 
 The key opens a box that contains, among other things, an "ectoplasm reveal
-tool" (an ultraviolet light). It will be used later to reveal secret
-messages.
+tool" (an ultraviolet light). It will be used later to [reveal secret
+messages].
 
 [underside]: /puzzles/hiding-places/underside/
 [stick word grid]: /puzzles/arrangement/stick-word-grid/
 [normally would not look]: /puzzles/hiding-places/unfair-hiding-places/
+[reveal secret messages]: /puzzles/decoders/invisible-ink/
 
 
 ## EMF Tool (Box 3)
@@ -110,6 +111,31 @@ but any [QR puzzle] would work.
 [QR puzzle]: /puzzles/qr-construction/
 
 
+## Research (Box 4)
+
+The players collect some research materials.
+
+**Suggested puzzle** Players have to find printed messages [underneath] or
+[on the underside] of the plates in the place settings. The message
+initially does not mean anything, but a further clue is revealed with the
+UV flashlight ([ectoplasm tool]).
+
+There are at least two ways to set up this puzzle. If you have a word lock,
+print a single word under each plate to form a meaningless phrase, and then
+circle one of the words with [an invisible ink pen]. The players must
+reveal the word with the UV flashlight and use that word on a lock.
+
+If you prefer to use a number lock, print a single digit under each plate
+and place them in random order. In [invisible ink], write numbers to
+indicate the order of the digits to form a code for a lock.
+
+[underneath]: /puzzles/hiding-places/underneath/
+[on the underside]: /puzzles/hiding-places/underside/
+[ectoplasm tool]: #ectoplasm-reveal-tool-box-2
+[an invisible ink pen]: /puzzles/decoders/invisible-ink/
+[invisible ink]:/puzzles/decoders/invisible-ink/
+
+
 ## Flow Diagram
 
 
@@ -120,6 +146,7 @@ following flow diagram.
 graph TB;
   R1(Room 1: Living Space) --> B1 & B2 & B3
   B1(Box 1: Start Tools)
-  B2(Box 2: Ectoplasm Tool)
+  B2(Box 2: Ectoplasm Tool) --> B4
   B3(Box 3: EMF Tool)
+  B4(Box 4: Research)
 {{< /mermaid >}}
