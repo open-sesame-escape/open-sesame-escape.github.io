@@ -47,7 +47,21 @@ The room should contain a table with several place settings of plates,
 glasses, forks, knives, etc.
 
 
-## Ectoplasm Reveal Tool (Box 1)
+## Start Tool Collection (Box 1)
+
+The players get together their ghost hunting tools. This first box
+collects items for opening up the tool boxes.
+
+**Suggested Puzzle** Mountd on one wall is [a sequence of digits]. Mounted
+on the opposite wall is a mirror. The players need to solve a [reflected
+code] puzzle by positioning themselves to view the digits in the mirror.
+The mirror reflection has the correct code to open the lock.
+
+[a sequence of digits]: /puzzles/mirror-images/reflected-code/original-digits.pdf
+[reflected code]: /puzzles/mirror-images/reflected-code/
+
+
+## Ectoplasm Reveal Tool (Box 2)
 
 The players collect some tools they need for their task. The first tool on
 the list is an "ectoplasm reveal tool."
@@ -68,7 +82,7 @@ messages.
 [normally would not look]: /puzzles/hiding-places/unfair-hiding-places/
 
 
-## EMF Tool (Box 2)
+## EMF Tool (Box 3)
 
 Another tool the players connect is an electromagnetic frequency (EMF)
 detector. An EMF detector reads emissions that come from electric power
@@ -104,7 +118,8 @@ following flow diagram.
 
 {{< mermaid align="center" >}}
 graph TB;
-  R1(Room 1: Living Space) --> B1 & B2
-  B1(Box 1: Ectoplasm Tool)
-  B2(Box 2: EMF Tool)
+  R1(Room 1: Living Space) --> B1 & B2 & B3
+  B1(Box 1: Start Tools)
+  B2(Box 2: Ectoplasm Tool)
+  B3(Box 3: EMF Tool)
 {{< /mermaid >}}
