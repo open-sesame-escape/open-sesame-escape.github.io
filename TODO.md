@@ -32,7 +32,7 @@
     * Stack blocks to align grooves. Holes in side show passcode
 * Mirrors
   * Reflected numbers
-    * Half digits. Print half of symmetric digits that become whole when
+  * Half digits. Print half of symmetric digits that become whole when
       put against a mirror.
   * Mirrored pigpen cipher
   * Light box: No mirror. You have to put a thin paper on a light box to
@@ -55,6 +55,7 @@
 
 * TODO before posting
   * Images for underneath and underside
+  * Image for reflected code
 
 * TODO after posting
   * Update online examples to use real web page for virus
