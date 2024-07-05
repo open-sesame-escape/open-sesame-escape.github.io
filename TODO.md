@@ -57,8 +57,12 @@
   * Images for underneath and underside
   * Image for reflected code
   * Images and thumbnail for invisible ink
+  * Images and thumbnail for fold back QR
 
 * TODO after posting
   * Update online examples to use real web page for virus
     * update COVID-19 with NEONORO
     * Remove player names
+  * Possible QR updates
+    * Red herring
+    * fold back QR
