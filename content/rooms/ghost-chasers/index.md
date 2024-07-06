@@ -167,6 +167,49 @@ indicate the order of the digits to form a code for a lock.
 [invisible ink]:/puzzles/decoders/invisible-ink/
 
 
+## Summon Lizzy (Box 6)
+
+The players use the tools at hand to summon the spirit that is haunting
+this house. The players are contacted by a spirit who identifies itself as
+"Lizzy." In the box have a picture of Lizzy. (The picture can be of any
+innocent looking girl. Find a random picture on the internet or that comes
+with a photo frame.) The picture comes wtih the following message.
+
+{{% example %}}
+Help! I'm Lizzy and I think I may have been murdered. Now I'm stuck in this
+limbo space: not alive, not dead. If I don't escape soon, the wraiths will
+steal my soul forever. Open the portal to the spiritual world, release the
+spirit, and save my soul!
+{{% /example %}}
+
+After the players open this box, you can play this audio file (for example,
+from a smartphone) to reinforce the situation.
+
+{{< example-audio src="lizzy-help.mp3" >}}
+
+**Suggested Puzzle** The players summon Lizzy with a [Ouija board]. You can
+simulate this by shining the UV flashlight ([ectoplasm tool]) on a provided
+Ouija board. The revealed ink shows the path of the entrance code word.
+
+{{% example %}}
+TODO: Picture of Ouija board with invisible ink.
+{{% /example %}}
+
+You could probably construct this puzzle with a store-bought Ouija board.
+But if you are cheap, like me, you can just [print] the pattern of a board
+on a piece of paper. When I originally did this, I first attempted to print
+an image of a board (like [this
+one](https://en.wikipedia.org/wiki/Ouija#/media/File:Ouija_board_-_Kennard_Novelty_Company.png).
+This, however, did not work because the invisible ink pen smeared the
+printer ink just enough to make out the path of the ink. Instead, you can
+use [this replica of a Ouija board with a blank background] so you can draw
+in the blank space between letters.
+
+[Ouija board]: https://en.wikipedia.org/wiki/Ouija
+[print]: /equipment/printer/
+[this replica of a Ouija board with a blank background]: ouija-board.pdf
+
+
 ## Flow Diagram
 
 
@@ -177,8 +220,9 @@ following flow diagram.
 graph TB;
   R1(Room 1: Living Space) --> B1 & B2 & B3
   B1(Box 1: Start Tools) --> B4
-  B2(Box 2: Ectoplasm Tool) --> B5
+  B2(Box 2: Ectoplasm Tool) --> B5 & B6
   B3(Box 3: EMF Tool)
   B4(Box 4: EVP Tool)
   B5(Box 5: Research)
+  B6(Box 6: Summon Lizzy)
 {{< /mermaid >}}
