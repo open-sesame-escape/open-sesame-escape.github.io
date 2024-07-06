@@ -1,0 +1,12 @@
+{{ $audioSrc := .Params.src }}
+
+<audio controls>
+  <source
+    src="{{ $audioSrc }}"
+    {{ with .Params.type }}
+      type="{{ . }}"
+    {{ else }}
+      type="audio/mpeg"
+    {{ end }}
+    />
+</audio>

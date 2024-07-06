@@ -9,7 +9,9 @@ summary: "A sheet of paper must be folded backwards to line up a QR code."
 This QR construction involves a single piece of paper. It has half of a QR
 code on each side and (optionally) a QR code in the middle.
 
-{{< example-image src="fold-back-qr.png" link="fold-back-qr.pdf" >}}
+{{< example-image
+    src="/rooms/ghost-chasers/fold-back-qr.png" 
+    link="/rooms/ghost-chasers/fold-back-qr.pdf" >}}
 
 The middle (full) QR is a decoy. If players scan it, it just leads to a
 [red herring].

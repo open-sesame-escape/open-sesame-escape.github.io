@@ -111,11 +111,42 @@ but any [QR puzzle] would work.
 [QR puzzle]: /puzzles/qr-construction/
 
 
-## Research (Box 4)
+## EVP Tool (Box 4)
+
+The players search for an electronic voice phenomenon (EVP). EVP is a real
+thing that paranormal investigators do. The idea is to do an audio
+recording in a quiet room. Then you play back the recording and listen for
+stuff in the background static. (Our pretend tool will work better than in
+real life.)
+
+**Suggested Puzzle** The first step is to have a [QR construction] puzzle
+that will make a players phone EVP recorder. Here is a [fold back QR]
+puzzle from [box 1] with a QR code that will take players to an [EVP
+simulator].
+
+{{< example-image src="fold-back-qr.png" link="fold-back-qr.pdf" >}}
+
+In the [EVP simulator], players first have to hit the "Record" button and
+then wait for the recording. Players will then be able to play back the
+recording. They will first have to hit the "Vol Up" button until the volume
+level is high. Once they do, they can play the following audio.
+
+{{< example-audio src="evp-high.mp3" >}}
+
+If the players listen carefully, in the static they can hear the numbers
+six-six-four-three.
+
+[QR construction]: /puzzles/qr-construction/
+[fold back QR]: /puzzles/qr-construction/fold-back/
+[box 1]: #start-tool-collection-box-1
+[EVP simulator]: https://www.drmoron.org/ghostchasers/evp/
+
+
+## Research (Box 5)
 
 The players collect some research materials.
 
-**Suggested puzzle** Players have to find printed messages [underneath] or
+**Suggested Puzzle** Players have to find printed messages [underneath] or
 [on the underside] of the plates in the place settings. The message
 initially does not mean anything, but a further clue is revealed with the
 UV flashlight ([ectoplasm tool]).
@@ -145,8 +176,9 @@ following flow diagram.
 {{< mermaid align="center" >}}
 graph TB;
   R1(Room 1: Living Space) --> B1 & B2 & B3
-  B1(Box 1: Start Tools)
-  B2(Box 2: Ectoplasm Tool) --> B4
+  B1(Box 1: Start Tools) --> B4
+  B2(Box 2: Ectoplasm Tool) --> B5
   B3(Box 3: EMF Tool)
-  B4(Box 4: Research)
+  B4(Box 4: EVP Tool)
+  B5(Box 5: Research)
 {{< /mermaid >}}
