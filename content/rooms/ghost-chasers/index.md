@@ -144,7 +144,10 @@ six-six-four-three.
 
 ## Research (Box 5)
 
-The players collect some research materials.
+The players collect some research materials. In particular, they find an
+article about dream analysis that will be useful later.
+
+{{< example-image src="dream-decoder.png" link="dream-decoder.pdf" >}}
 
 **Suggested Puzzle** Players have to find printed messages [underneath] or
 [on the underside] of the plates in the place settings. The message
@@ -187,6 +190,20 @@ from a smartphone) to reinforce the situation.
 
 {{< example-audio src="lizzy-help.mp3" >}}
 
+Additionally, players find an excerpt from [Lizzy's diary].
+
+{{% example %}}
+
+Dear Diary,
+
+Today was the best Day of my life. I met the man of my dreams: Todd. We met
+at the park. He was walking his ferret. I was hiding in the bushes. He is
+sooooo cute with his pouting Lips and big brown Eyebrows. I didn't have the
+courage to talk, but I did find out where he lives. Tomorrow, we'll "meet"
+again. I'll bring Mr. Knife for luck.
+
+{{% /example %}}
+
 **Suggested Puzzle** The players summon Lizzy with a [Ouija board]. You can
 simulate this by shining the UV flashlight ([ectoplasm tool]) on a provided
 Ouija board. The revealed ink shows the path of the entrance code word.
@@ -205,9 +222,36 @@ printer ink just enough to make out the path of the ink. Instead, you can
 use [this replica of a Ouija board with a blank background] so you can draw
 in the blank space between letters.
 
+[Lizzy's diary]: diary.pdf
 [Ouija board]: https://en.wikipedia.org/wiki/Ouija
 [print]: /equipment/printer/
 [this replica of a Ouija board with a blank background]: ouija-board.pdf
+
+
+## Learn Reiki (Box 7)
+
+The players discover Reiki healing movements helpful for their goals.
+[Reiki] is an alternative medicine technique based on energy flows through
+the body. Part of Reiki involves moving your hands in various patterns to
+manipulate these energy flows.
+
+This box has several Reiki patterns for the players' reference.
+
+{{< example-image src="reiki.png" link="reiki.pdf" >}}
+
+Reiki is really a healing technique, not something that meant to unlock
+doors. But I think it is safe to say it works equally well for either.
+
+**Suggested Puzzle** This box opens up with a [lookup puzzle]. First,
+Lizzy's diary (from [box 6]) has several words with odd capitalization:
+Day, Lips, Eyebrows, and Knife. The players need to match these with the
+word lists in the paper from [box 5]. These words translate to the numbers
+4 4 8 2.
+
+[Reiki]: https://en.wikipedia.org/wiki/Reiki
+[lookup puzzle]: /puzzles/hidden-messages/lookup/
+[box 6]: #summon-lizzy-box-6
+[box 5]: #research-box-5
 
 
 ## Flow Diagram
@@ -223,6 +267,7 @@ graph TB;
   B2(Box 2: Ectoplasm Tool) --> B5 & B6
   B3(Box 3: EMF Tool)
   B4(Box 4: EVP Tool)
-  B5(Box 5: Research)
-  B6(Box 6: Summon Lizzy)
+  B5(Box 5: Research) --> B7
+  B6(Box 6: Summon Lizzy) --> B7
+  B7(Box 7: Reiki)
 {{< /mermaid >}}
