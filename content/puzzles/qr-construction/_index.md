@@ -1,7 +1,7 @@
 ---
 title: "Qr Construction"
 date: 2023-03-19T20:40:39-06:00
-weight:
+weight: 500
 thumbnail: "blank.png"
 summary: "Put together a QR code to get the next clue."
 ---

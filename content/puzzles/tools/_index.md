@@ -1,7 +1,7 @@
 ---
 title: "Unlikely Tools"
 date: 2024-05-31T22:33:41-04:00
-weight:
+weight: 500
 thumbnail: "blank.png"
 summary: "These puzzles are solved by using an object as a tool in an unlikely way."
 ---

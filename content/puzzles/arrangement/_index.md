@@ -1,7 +1,7 @@
 ---
 title: "Orders and Arrangement"
 date: 2024-04-03T20:51:17-04:00
-weight:
+weight: 500
 thumbnail: "blank.png"
 summary: "Place items in the correct order to reveal the code."
 ---

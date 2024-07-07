@@ -1,7 +1,7 @@
 ---
 title: "Mazes"
 date: 2024-06-18T22:05:49-04:00
-weight:
+weight: 500
 thumbnail: "blank.png"
 summary: "The players must find and navigate a maze."
 ---

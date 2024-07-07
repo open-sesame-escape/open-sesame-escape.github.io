@@ -1,7 +1,7 @@
 ---
 title: "Misdirection"
 date: 2024-06-15T21:20:07-04:00
-weight:
+weight: 500
 thumbnail: "blank.png"
 summary: "With a little misdirection and a lot of overthinking, players miss the obvious answer."
 ---

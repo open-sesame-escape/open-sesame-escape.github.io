@@ -41,7 +41,6 @@
   * Connected "wires"
 * Misdirection
   * Non-Nonogram
-  * Red herrings
 * Hiding places
   * False bottom
   * Map
@@ -66,3 +65,4 @@
   * Possible QR updates
     * Red herring
     * fold back QR
+  * Web page for alternative for direction lock (which has been discontinued)

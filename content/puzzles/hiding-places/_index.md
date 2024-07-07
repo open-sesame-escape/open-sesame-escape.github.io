@@ -1,7 +1,7 @@
 ---
 title: "Hiding Places"
 date: 2024-06-24T21:41:48-04:00
-weight:
+weight: 500
 thumbnail: "blank.png"
 summary: "Where to hide (and not hide) objects in a room."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Mirror Images"
 date: 2024-07-04T12:47:43-04:00
-weight:
+weight: 500
 thumbnail: "blank.png"
 summary: "Players have to reflect an image to get the proper code."
 ---
