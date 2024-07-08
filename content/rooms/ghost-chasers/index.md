@@ -254,6 +254,27 @@ word lists in the paper from [box 5]. These words translate to the numbers
 [box 5]: #research-box-5
 
 
+## Spirit World (Room 2)
+
+The second room represents the spirit world. This room should be spooky and
+contain ghostly decorations. Decorating this room is a chance to be
+creative. Halloween decorations can work well here. Making the room dark
+matches the theme, but make sure there is enough light to see the puzzles
+and avoid any tripping hazards.
+
+**Suggested Puzzle** Of the symbols provided in [box 7], one of them is
+labeled "open dimensions." This is a clue that this symbol is used to open
+the portal (i.e., door) to the spirit world.
+
+The symbol has ordered arrows giving the proper directions to replicate
+this symbol. The players must replicate these directions on a [directional
+lock] to open the door. This is a form of the [sketch directions] puzzles.
+
+[box 7]: #learn-reiki-box-7
+[directional lock]: /equipment/locks/#directional-locks
+[sketch directions]: /puzzles/miscellany/sketch-directions/
+
+
 ## Flow Diagram
 
 
@@ -262,12 +283,15 @@ following flow diagram.
 
 {{< mermaid align="center" >}}
 graph TB;
-  R1(Room 1: Living Space) --> B1 & B2 & B3
+  R1[Room 1: Living Space] --> B1 & B2 & B3
+  style R1 fill:#fee,stroke:#b66
   B1(Box 1: Start Tools) --> B4
   B2(Box 2: Ectoplasm Tool) --> B5 & B6
   B3(Box 3: EMF Tool)
   B4(Box 4: EVP Tool)
   B5(Box 5: Research) --> B7
   B6(Box 6: Summon Lizzy) --> B7
-  B7(Box 7: Reiki)
+  B7(Box 7: Reiki) --> R2
+  R2[Room 2: Spirit World]
+  style R2 fill:#fee,stroke:#b66
 {{< /mermaid >}}
