@@ -119,6 +119,34 @@ recording in a quiet room. Then you play back the recording and listen for
 stuff in the background static. (Our pretend tool will work better than in
 real life.)
 
+The EVP is going to create an encoding for astrological symbols, which will
+be used [in a later puzzle](#spirit-box-box-8). The encoding can be
+embedded in its own [symbol algebra].
+
+{{% example %}}
+♉ + ♉ + ♉ = 9
+
+♉ + ♑ + ♑ = 13
+
+( ♉ × ♑ ) - ♐ = 13
+
+♉ + ♑ + ♐ + ♐ + ♍ = 13
+{{% /example %}}
+
+The answers to this puzzle ♉-3, ♑-5, ♐-2, ♍-1. If you don't think the
+players will enjoy doing math homework, you can alternatively just give a
+straight lookup.
+
+{{% example %}}
+1. ♍
+2. ♐
+3. ♉
+4. ♊
+5. ♑
+6. ♎
+7. ♓
+{{% /example %}}
+
 **Suggested Puzzle** The first step is to have a [QR construction] puzzle
 that will make a players phone EVP recorder. Here is a [fold back QR]
 puzzle from [box 1] with a QR code that will take players to an [EVP
@@ -134,8 +162,9 @@ level is high. Once they do, they can play the following audio.
 {{< example-audio src="evp-high.mp3" >}}
 
 If the players listen carefully, in the static they can hear the numbers
-six-six-four-three.
+six-six-four-three, which form the combination to the box's lock.
 
+[symbol algebra]: /puzzles/paper-and-pencil/symbol-algebra/
 [QR construction]: /puzzles/qr-construction/
 [fold back QR]: /puzzles/qr-construction/fold-back/
 [box 1]: #start-tool-collection-box-1
@@ -148,6 +177,20 @@ The players collect some research materials. In particular, they find an
 article about dream analysis that will be useful later.
 
 {{< example-image src="dream-decoder.png" link="dream-decoder.pdf" >}}
+
+The players also find an enigmatic list of phrases.
+
+{{% example %}}
+### Secrets to Long Life
+
+Be Loving
+
+Reap Compasion
+
+Laugh Madly
+
+Murder Kindly
+{{% /example %}}
 
 **Suggested Puzzle** Players have to find printed messages [underneath] or
 [on the underside] of the plates in the place settings. The message
@@ -275,6 +318,48 @@ lock] to open the door. This is a form of the [sketch directions] puzzles.
 [sketch directions]: /puzzles/miscellany/sketch-directions/
 
 
+## Spirit Box (Box 8)
+
+A spirit box in another device that paranormal investigators will use. It
+is an electronic device that makes a cyclic static sound and occasionally
+barks out words. What the spirit box is doing is quickly cycling through FM
+radio channels. It's basically a digital FM radio with the tuner up button
+held down. As the radio scans through frequencies, it occasionally picks up
+a sound. Some people think this is spirits trying to communicate. (Others
+think it is a radio making sounds like radios do.)
+
+**Suggested Puzzle** Inside the [spirit world] is this map of the night sky
+with austrological symbols on it.
+
+{{< example-image src="constellations-map.png" link="constellations-map.pdf" >}}
+
+This map should be printed as large as possible (either on a poster or on
+multiple pieces of paper) to see its small features.
+
+This map combines with the [list of items] in [box 5] to form a [grid
+lookup] puzzle. The items in the list are "Be Loving", "Reap Compasion",
+"Laugh Madly", and "Murder Kindly". Focusing on the first letter of each
+phrase, we get B-L, R-C, L-M, and M-K. If we look up these pairs on the
+map (looking a columns first), we see that they point to the astrological
+symbols ♉, ♍, ♑, and ♐.
+
+This still does not provide the code. These astrology symbols must be
+turned into numbers using the clue provided in [box 4]. This box either
+directly has the conversion of symbol to number or has a [symbol algebra]
+puzzle to assign a number to each.
+
+[spirit world]: #spirit-world-room-2
+[list of items]: #secrets-to-long-life
+[grid lookup]: /puzzles/decoders/grid-lookup/
+[box 4]: #evp-tool-box-4
+
+
+* Box 3 has groovy blocks
+* Banishment potion recipe (spirit room), candle puzzle
+* Spirit Box tool (spirit room), astrology puzzle
+* Ingredient list (from Lizzy reveal)
+* Shopping list (from Lizzy defeat)
+
 ## Flow Diagram
 
 
@@ -287,11 +372,17 @@ graph TB;
   style R1 fill:#fee,stroke:#b66
   B1(Box 1: Start Tools) --> B4
   B2(Box 2: Ectoplasm Tool) --> B5 & B6
-  B3(Box 3: EMF Tool)
-  B4(Box 4: EVP Tool)
-  B5(Box 5: Research) --> B7
+  B3(Box 3: EMF Tool) --> B10
+  B4(Box 4: EVP Tool) --> B8
+  B5(Box 5: Research) --> B7 & B8
   B6(Box 6: Summon Lizzy) --> B7
   B7(Box 7: Reiki) --> R2
-  R2[Room 2: Spirit World]
+  R2[Room 2: Spirit World] --> B8 & B9 & B10
   style R2 fill:#fee,stroke:#b66
+  B8(Box 8: Spirit Box) --> E
+  B9(Box 9: Banishment Potion) --> B11
+  B10(Box 10: Lizzy Unchained) --> B11
+  B11(Box 11: Lizzy Defeated) --> E
+  E(Exit: Escape House)
+  style E fill:#fee,stroke:#b66
 {{< /mermaid >}}

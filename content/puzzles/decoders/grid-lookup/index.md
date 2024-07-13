@@ -39,8 +39,8 @@ by providing a list of two word phrases. The phrases alone do not make
 sense. The trick is that the first letter of each word refers to a row or
 location in the grid. For example, consider the list below.
 
-{{% example font="normal" %}}
-**Spy Tools**
+{{% example %}}
+### Spy Tools
 
 Bugged Lapel
 
