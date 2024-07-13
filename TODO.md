@@ -14,6 +14,7 @@
     * Different pendents hang on pegs
     * Pendant can be rotated around to find number at correct distance from peg.
     * Probably good to have first number to be straight down to lead players on how to solve
+  * Nut cryptex - same as cup cryptex but with nuts and bolts
 * Coded pictures
   * Run length encoding
   * Color by coordinates
@@ -62,10 +63,10 @@
   * Images and thumbnail for fold back QR
 
 * TODO after posting
+  * Web page for alternative for direction lock (which has been discontinued)
   * Update online examples to use real web page for virus
     * update COVID-19 with NEONORO
     * Remove player names
   * Possible QR updates
     * Red herring
     * fold back QR
-  * Web page for alternative for direction lock (which has been discontinued)
