@@ -51,7 +51,6 @@
   * Fold to back
   * Back of door
 * Miscellany
-  * Tea light message
   * Missing segments in 7-segment display
     * The segments that are _not_ highlighted are the ones that form numbers
     * https://www.reddit.com/r/puzzles/comments/1e17v56/solve_the_following_puzzle_below_to_work_out_the/
