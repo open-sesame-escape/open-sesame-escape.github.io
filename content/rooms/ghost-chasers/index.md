@@ -346,7 +346,9 @@ symbols ♉, ♍, ♑, and ♐.
 This still does not provide the code. These astrology symbols must be
 turned into numbers using the clue provided in [box 4]. This box either
 directly has the conversion of symbol to number or has a [symbol algebra]
-puzzle to assign a number to each.
+puzzle to assign a number to each. In the numbering provided in the
+[examples above](#evp-tool-box-4), these symbols translate to the
+code 3152.
 
 [spirit world]: #spirit-world-room-2
 [list of items]: #secrets-to-long-life
@@ -354,9 +356,44 @@ puzzle to assign a number to each.
 [box 4]: #evp-tool-box-4
 
 
+## Banishment Potion (Box 9)
+
+When the players open this box, they find the instructions to create a
+banishment potion. When the players open this box, they get a potion recipe
+like this.
+
+{{% example %}}
+### Banishment Potion
+
+#### Ingredients
+
+* 2 tablespoons Pus
+* 4 sprigs Sneezewort
+* 1 cup Urine
+* 5 Tubeworms
+* 3 Cockroaches
+
+#### Directions
+
+Melt pus in a large saucepan. Chop sneezewort and add to pus. Sauté until
+sneezewort is soft. Add urine and bring to boil. Dice tubeworms and add to
+urine/sneezewort mixture. Return to boil, reduce heat, cover, and simmer
+for 15 minutes.
+
+Pour mixture into a small trifle bowl. Slice cockroaches lengthwise and
+arrange on top in a pentagram.
+{{% /example %}}
+
+**Suggested Puzzle** The banishment potion box can be opened with a code
+provided by the [tea light message] puzzle. The tea light is placed on the
+table in the first room and is lit as the players walk in. By the time the
+players open the second room where this box is, the code should be visible
+in the candle. The players just have to find it.
+
+[tea light message]: /puzzles/hiding-places/tea-light/
+
+
 * Box 3 has groovy blocks
-* Banishment potion recipe (spirit room), candle puzzle
-* Spirit Box tool (spirit room), astrology puzzle
 * Ingredient list (from Lizzy reveal)
 * Shopping list (from Lizzy defeat)
 
