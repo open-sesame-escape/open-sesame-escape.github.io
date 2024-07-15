@@ -60,6 +60,7 @@
   * Image for reflected code
   * Images and thumbnail for invisible ink
   * Images and thumbnail for fold back QR
+  * Images and thumbnail for hanging boss
 
 * TODO after posting
   * Web page for alternative for direction lock (which has been discontinued)
