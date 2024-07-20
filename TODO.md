@@ -61,6 +61,7 @@
   * Images and thumbnail for invisible ink
   * Images and thumbnail for fold back QR
   * Images and thumbnail for hanging boss
+  * Images and thumbnail for groovy blocks
 
 * TODO after posting
   * Web page for alternative for direction lock (which has been discontinued)
@@ -70,3 +71,4 @@
   * Possible QR updates
     * Red herring
     * fold back QR
+  * Link back and forth between groovy blocks and thangs

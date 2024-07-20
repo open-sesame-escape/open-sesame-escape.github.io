@@ -47,7 +47,7 @@ TODO: Boss crumpled on floor.
 ### Setup
 
 The setup of the hanging boss is done in the reverse order that it is
-solved. It's head is first hung in place, and then the bottom is pulled up
+solved. Its head is first hung in place, and then the bottom is pulled up
 to the ceiling.
 
 The first step is to mount the contents of the second "[box]" on the boss's
