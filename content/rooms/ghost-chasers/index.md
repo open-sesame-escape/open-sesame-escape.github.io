@@ -393,9 +393,58 @@ in the candle. The players just have to find it.
 [tea light message]: /puzzles/hiding-places/tea-light/
 
 
-* Box 3 has groovy blocks
-* Ingredient list (from Lizzy reveal)
+## Lizzy Unchained (Box 10)
+
+The players free the trapped soul, Lizzy, who pleaded for help ([box 6]).
+However, as soon as the players succeed in releasing Lizzy, she reveals
+herself as a malevolent spirit intent on committing evil.
+
+When players unlock this "box," a horrible figure drops from the ceiling.
+(The puzzle is set up as a [hanging boss]. A Halloween decoration of a
+ghost works well for the figurine of Lizzy.) When Lizzy unfurls, also
+dropping is a not revealing her true nature.
+
+{{% example %}}
+Fools! Now that you have opened the portal, I will unleash hell upon the
+Earth!
+{{% /example %}}
+
+When Lizzy is revealed, you can also play an audio file to pump up the
+drama.
+
+{{% example-audio src="evil-lizzy.mp3" %}}
+
+Also dropping from Lizzy is [a list of potion ingredients]. This is a long
+list of weird ingredients, each with a random digit next to it.
+
+**Suggested Puzzle** The clue to unlocking Lizzy unchained is provided by
+the [EMF tool (box 3)]. I used the [groovy blocks] puzzle. This is a tricky
+puzzle, but providing the blocks early in [box 3] will give players some
+more time to work it out.
+
+[hanging boss]: /puzzles/machines/hanging-boss/
+[a list of potion ingredients]: potion-ingredients.pdf
+[EMF tool (box 3)]: #emf-tool-box-3
+[box 3]: #emf-tool-box-3
+[groovy blocks]: /puzzles/arrangement/groovy-blocks/
+
 * Shopping list (from Lizzy defeat)
+
+{{% example %}}
+#### Lizzy’s Shopping List
+
+ 1. Blood
+ 2. Bone
+ 3. Gore
+ 4. Pickles
+ 5. Violence
+ 6. Fructose
+ 7. Sweat
+ 8. Evil
+ 9. Dark
+10. Red Rum
+{{% /example %}}
+
 
 ## Flow Diagram
 
