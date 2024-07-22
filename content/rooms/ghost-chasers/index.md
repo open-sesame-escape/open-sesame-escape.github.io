@@ -285,14 +285,14 @@ This box has several Reiki patterns for the players' reference.
 Reiki is really a healing technique, not something that meant to unlock
 doors. But I think it is safe to say it works equally well for either.
 
-**Suggested Puzzle** This box opens up with a [lookup puzzle]. First,
+**Suggested Puzzle** This box opens up with a [code-word lookup] puzzle. First,
 Lizzy's diary (from [box 6]) has several words with odd capitalization:
 Day, Lips, Eyebrows, and Knife. The players need to match these with the
 word lists in the paper from [box 5]. These words translate to the numbers
 4 4 8 2.
 
 [Reiki]: https://en.wikipedia.org/wiki/Reiki
-[lookup puzzle]: /puzzles/hidden-messages/lookup/
+[code-word lookup]: /puzzles/hidden-messages/lookup/
 [box 6]: #summon-lizzy-box-6
 [box 5]: #research-box-5
 
@@ -318,15 +318,12 @@ lock] to open the door. This is a form of the [sketch directions] puzzles.
 [sketch directions]: /puzzles/miscellany/sketch-directions/
 
 
-## Spirit Box (Box 8)
+## Astrology Reading (Box 8)
 
-A spirit box in another device that paranormal investigators will use. It
-is an electronic device that makes a cyclic static sound and occasionally
-barks out words. What the spirit box is doing is quickly cycling through FM
-radio channels. It's basically a digital FM radio with the tuner up button
-held down. As the radio scans through frequencies, it occasionally picks up
-a sound. Some people think this is spirits trying to communicate. (Others
-think it is a radio making sounds like radios do.)
+The players consult astrological charts to help them in their quest.
+
+(I am unaware real parnormal investigators using astrology, but I think it
+meets the theme well.)
 
 **Suggested Puzzle** Inside the [spirit world] is this map of the night sky
 with austrological symbols on it.
@@ -429,7 +426,30 @@ more time to work it out.
 [groovy blocks]: /puzzles/arrangement/groovy-blocks/
 
 
-## Lizzy Defeated (Box 11)
+## Spirit Box (Box 11)
+
+A spirit box in another device that paranormal investigators will use. It
+is an electronic device that makes a cyclic static sound and occasionally
+barks out words. What the spirit box is doing is quickly cycling through FM
+radio channels. It's basically a digital FM radio with the tuner up button
+held down. As the radio scans through frequencies, it occasionally picks up
+a sound. Some people think this is spirits trying to communicate. (Others
+think it is a radio making sounds like radios do.)
+
+**Suggested Puzzle** Like the other tools, the spirit box is emulated on a
+player's phone and accessed through a QR code. Thus, a [QR construction]
+puzzle is appropriate. You can use a [jigsaw QR] puzzle here. The following
+QR code with the suggested cutout pieces works well.
+
+{{< example-image src="jigsaw-qr-small.png" link="jigsaw-qr.png" >}}
+
+These puzzle pieces come from [box 8] (and possibly others).
+
+[jigsaw QR]: /puzzles/qr-construction/jigsaw/
+[box 8]: #astrology-reading-box-8
+
+
+## Lizzy Defeated (Box 12)
 
 The players concoct a banishment potion and apply it on the evil spirit
 Lizzy. On solving the puzzle, the players unlock the second part of the
@@ -472,6 +492,27 @@ order of these numbers: 1-Urine, 2-Pus, 3-Cockroaches, 4-Sneezewort,
 [box 10]: #lizzy-unchained-box-10
 
 
+## Escape House (Exit)
+
+With Lizzy defeated, the players must close the connection to the
+metaphysical world and unlock the door to the outside world. Then they can
+emerge from the house victorious.
+
+**Suggested Puzzle** The [spirit box] from [box 11] plays a sound:
+
+{{< example-audio src="spirit-box.mp3" >}}
+
+Within this sound, words can be discerned: Evil, Gore, Blood, Pickles. In
+another variation of the [code-word lookup] puzzle, these words are
+cross-referenced in [Lizzy's shopping list] from [box 12]. This provides
+the digits 8, 3, 1, and 4, which form the proper code 8314.
+
+[spirit box]: https://www.drmoron.org/ghostchasers/spirit-box/
+[box 11]: #spirit-box-box-11
+[Lizzy's shopping list]: #lizzys-shopping-list
+[box 12]: #lizzy-defeated-box-12
+
+
 ## Flow Diagram
 
 
@@ -491,10 +532,11 @@ graph TB;
   B7(Box 7: Reiki) --> R2
   R2[Room 2: Spirit World] --> B8 & B9 & B10
   style R2 fill:#fee,stroke:#b66
-  B8(Box 8: Spirit Box) --> E
-  B9(Box 9: Banishment Potion) --> B11
-  B10(Box 10: Lizzy Unchained) --> B11
-  B11(Box 11: Lizzy Defeated) --> E
+  B8(Box 8: Astrology Reading) --> B11
+  B9(Box 9: Banishment Potion) --> B12
+  B10(Box 10: Lizzy Unchained) --> B12
+  B11(Box 11: Spirit Box) --> E
+  B12(Box 12: Lizzy Defeated) --> E
   E(Exit: Escape House)
   style E fill:#fee,stroke:#b66
 {{< /mermaid >}}
