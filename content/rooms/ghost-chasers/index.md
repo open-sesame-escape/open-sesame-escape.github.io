@@ -15,7 +15,7 @@ I incorporated ideas from actual tools used in paranormal investigations.
 Whether you believe in them or not, it is fun to pretend.
 
 The game is divided into two spaces. The first space features a dining
-table with place setting. A dining area is perfect for this space. The
+table with place settings. A dining area is perfect for this space. The
 second space represents the spirit world. It should be a dark space with
 spooky lighting and decorations. Black lights and Halloween decorations
 work well here. The [flow diagram] is drawn at the end of this page.
@@ -73,6 +73,10 @@ in a [stick word grid]. The words spell out a message that points to a
 location for players to find a key where they [normally would not look]. I
 made the message "look under chairs".
 
+{{% example %}}
+TODO: Picture of knives in arrangement.
+{{% /example %}}
+
 The key opens a box that contains, among other things, an "ectoplasm reveal
 tool" (an ultraviolet light). It will be used later to [reveal secret
 messages].
@@ -85,7 +89,7 @@ messages].
 
 ## EMF Tool (Box 3)
 
-Another tool the players connect is an electromagnetic frequency (EMF)
+Another tool the players collect is an electromagnetic frequency (EMF)
 detector. An EMF detector reads emissions that come from electric power
 lines and electric devices. Some paranormal investigators believe that
 ghosts can emit electromagnetic radiation and use EMF detectors to attempt
@@ -119,9 +123,26 @@ recording in a quiet room. Then you play back the recording and listen for
 stuff in the background static. (Our pretend tool will work better than in
 real life.)
 
-The EVP is going to create an encoding for astrological symbols, which will
-be used [in a later puzzle](#spirit-box-box-8). The encoding can be
-embedded in its own [symbol algebra].
+**Suggested Puzzle** The first step is to have a [QR construction] puzzle
+that will make a players phone EVP recorder. Here is a [fold back QR]
+puzzle from [box 1] with a QR code that will take players to an [EVP
+simulator].
+
+{{< example-image src="fold-back-qr.png" link="fold-back-qr.pdf" >}}
+
+In the [EVP simulator], players first have to hit the "Record" button and
+then wait for the recording. Players will then be able to play back the
+recording. They will first have to hit the "Vol Up" button until the volume
+level is high. Once they do, they can play the following audio.
+
+{{< example-audio src="evp-high.mp3" >}}
+
+If the players listen carefully, in the static they can hear the numbers
+six-six-four-three, which form the combination to the box's lock.
+
+The box contains an encoding for astrological symbols, which will be used
+[in a later puzzle](#spirit-box-box-8). The encoding can be embedded in its
+own [symbol algebra].
 
 {{% example %}}
 ♉ + ♉ + ♉ = 9
@@ -146,23 +167,6 @@ straight lookup.
 6. ♎
 7. ♓
 {{% /example %}}
-
-**Suggested Puzzle** The first step is to have a [QR construction] puzzle
-that will make a players phone EVP recorder. Here is a [fold back QR]
-puzzle from [box 1] with a QR code that will take players to an [EVP
-simulator].
-
-{{< example-image src="fold-back-qr.png" link="fold-back-qr.pdf" >}}
-
-In the [EVP simulator], players first have to hit the "Record" button and
-then wait for the recording. Players will then be able to play back the
-recording. They will first have to hit the "Vol Up" button until the volume
-level is high. Once they do, they can play the following audio.
-
-{{< example-audio src="evp-high.mp3" >}}
-
-If the players listen carefully, in the static they can hear the numbers
-six-six-four-three, which form the combination to the box's lock.
 
 [symbol algebra]: /puzzles/paper-and-pencil/symbol-algebra/
 [QR construction]: /puzzles/qr-construction/
@@ -258,12 +262,10 @@ TODO: Picture of Ouija board with invisible ink.
 You could probably construct this puzzle with a store-bought Ouija board.
 But if you are cheap, like me, you can just [print] the pattern of a board
 on a piece of paper. When I originally did this, I first attempted to print
-an image of a board (like [this
-one](https://en.wikipedia.org/wiki/Ouija#/media/File:Ouija_board_-_Kennard_Novelty_Company.png).
-This, however, did not work because the invisible ink pen smeared the
-printer ink just enough to make out the path of the ink. Instead, you can
-use [this replica of a Ouija board with a blank background] so you can draw
-in the blank space between letters.
+an image of a board. This, however, did not work because the invisible ink
+pen smeared the printer ink just enough to make out the path of the ink.
+Instead, you can use [this replica of a Ouija board with a blank
+background] so you can draw in the blank space between letters.
 
 [Lizzy's diary]: diary.pdf
 [Ouija board]: https://en.wikipedia.org/wiki/Ouija
@@ -337,7 +339,7 @@ This map combines with the [list of items] in [box 5] to form a [grid
 lookup] puzzle. The items in the list are "Be Loving", "Reap Compassion",
 "Laugh Madly", and "Murder Kindly". Focusing on the first letter of each
 phrase, we get B-L, R-C, L-M, and M-K. If we look up these pairs on the
-map (looking a columns first), we see that they point to the astrological
+map (looking at columns first), we see that they point to the astrological
 symbols ♉, ♍, ♑, and ♐.
 
 This still does not provide the code. These astrology symbols must be
@@ -398,8 +400,8 @@ herself as a malevolent spirit intent on committing evil.
 
 When players unlock this "box," a horrible figure drops from the ceiling.
 (The puzzle is set up as a [hanging boss]. A Halloween decoration of a
-ghost works well for the figurine of Lizzy.) When Lizzy unfurls, also
-dropping is a not revealing her true nature.
+ghost works well for the figurine of Lizzy.) When Lizzy unfurls, a note is
+also droped revealing her true nature.
 
 {{% example %}}
 Fools! Now that you have opened the portal, I will unleash hell upon the

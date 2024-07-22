@@ -62,6 +62,7 @@
   * Images and thumbnail for fold back QR
   * Images and thumbnail for hanging boss
   * Images and thumbnail for groovy blocks
+  * Images missing from ghost chasers
 
 * TODO after posting
   * Web page for alternative for direction lock (which has been discontinued)
