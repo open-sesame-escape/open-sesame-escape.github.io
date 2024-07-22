@@ -16,7 +16,7 @@ Whether you believe in them or not, it is fun to pretend.
 
 The game is divided into two spaces. The first space features a dining
 table with place setting. A dining area is perfect for this space. The
-second space represents the spirt world. It should be a dark space with
+second space represents the spirit world. It should be a dark space with
 spooky lighting and decorations. Black lights and Halloween decorations
 work well here. The [flow diagram] is drawn at the end of this page.
 
@@ -25,7 +25,7 @@ work well here. The [flow diagram] is drawn at the end of this page.
 
 ## Scenario
 
-You (the players) are paranormal investigators. Yesterday, a desparate
+You (the players) are paranormal investigators. Yesterday, a desperate
 voice on the phone called you to a mansion on the outskirts of town. When
 you arrive, the door pushes open when you knock, but your host is not there
 to greet you. When you step inside, the door slams shut and latches behind
@@ -52,7 +52,7 @@ glasses, forks, knives, etc.
 The players get together their ghost hunting tools. This first box
 collects items for opening up the tool boxes.
 
-**Suggested Puzzle** Mountd on one wall is [a sequence of digits]. Mounted
+**Suggested Puzzle** Mounted on one wall is [a sequence of digits]. Mounted
 on the opposite wall is a mirror. The players need to solve a [reflected
 code] puzzle by positioning themselves to view the digits in the mirror.
 The mirror reflection has the correct code to open the lock.
@@ -185,7 +185,7 @@ The players also find an enigmatic list of phrases.
 
 Be Loving
 
-Reap Compasion
+Reap Compassion
 
 Laugh Madly
 
@@ -219,7 +219,7 @@ The players use the tools at hand to summon the spirit that is haunting
 this house. The players are contacted by a spirit who identifies itself as
 "Lizzy." In the box have a picture of Lizzy. (The picture can be of any
 innocent looking girl. Find a random picture on the internet or that comes
-with a photo frame.) The picture comes wtih the following message.
+with a photo frame.) The picture comes with the following message.
 
 {{% example %}}
 Help! I'm Lizzy and I think I may have been murdered. Now I'm stuck in this
@@ -322,11 +322,11 @@ lock] to open the door. This is a form of the [sketch directions] puzzles.
 
 The players consult astrological charts to help them in their quest.
 
-(I am unaware real parnormal investigators using astrology, but I think it
+(I am unaware real paranormal investigators using astrology, but I think it
 meets the theme well.)
 
 **Suggested Puzzle** Inside the [spirit world] is this map of the night sky
-with austrological symbols on it.
+with astrological symbols on it.
 
 {{< example-image src="constellations-map.png" link="constellations-map.pdf" >}}
 
@@ -334,7 +334,7 @@ This map should be printed as large as possible (either on a poster or on
 multiple pieces of paper) to see its small features.
 
 This map combines with the [list of items] in [box 5] to form a [grid
-lookup] puzzle. The items in the list are "Be Loving", "Reap Compasion",
+lookup] puzzle. The items in the list are "Be Loving", "Reap Compassion",
 "Laugh Madly", and "Murder Kindly". Focusing on the first letter of each
 phrase, we get B-L, R-C, L-M, and M-K. If we look up these pairs on the
 map (looking a columns first), we see that they point to the astrological
@@ -485,7 +485,7 @@ Pus, Sneezewort, Urine, Tubeworms, and Cockroaches. Looking these up in the
 But this is not the correct order of the digits. Each ingredient has a
 quantity containing a number. The ingredients need to be listed in the
 order of these numbers: 1-Urine, 2-Pus, 3-Cockroaches, 4-Sneezewort,
-5-Tubeworms. This order yeilds the correct code: 51029.
+5-Tubeworms. This order yields the correct code: 51029.
 
 [banishment potion]: #banishment-potion
 [box 9]: #banishment-potion-box-9
