@@ -414,7 +414,7 @@ drama.
 
 {{% example-audio src="evil-lizzy.mp3" %}}
 
-Also dropping from Lizzy is [a list of potion ingredients]. This is a long
+Also dropping from Lizzy is a [list of potion ingredients]. This is a long
 list of weird ingredients, each with a random digit next to it.
 
 **Suggested Puzzle** The clue to unlocking Lizzy unchained is provided by
@@ -423,12 +423,22 @@ puzzle, but providing the blocks early in [box 3] will give players some
 more time to work it out.
 
 [hanging boss]: /puzzles/machines/hanging-boss/
-[a list of potion ingredients]: potion-ingredients.pdf
+[list of potion ingredients]: potion-ingredients.pdf
 [EMF tool (box 3)]: #emf-tool-box-3
 [box 3]: #emf-tool-box-3
 [groovy blocks]: /puzzles/arrangement/groovy-blocks/
 
-* Shopping list (from Lizzy defeat)
+
+## Lizzy Defeated (Box 11)
+
+The players concoct a banishment potion and apply it on the evil spirit
+Lizzy. On solving the puzzle, the players unlock the second part of the
+[hanging boss]. Lizzy falls to the ground, defeated. When Lizzy falls, you
+can play this audio file.
+
+{{< example-audio src="defeated-lizzy.mp3" >}}
+
+After Lizzy falls, players find a shopping list.
 
 {{% example %}}
 #### Lizzy’s Shopping List
@@ -444,6 +454,22 @@ more time to work it out.
  9. Dark
 10. Red Rum
 {{% /example %}}
+
+**Suggested Puzzle** The [banishment potion] from [box 9] and the [list of
+potion ingredients] from [box 10] are combined in a variation of the
+[code-word lookup] puzzle. The ingredients of the banishment potion are
+Pus, Sneezewort, Urine, Tubeworms, and Cockroaches. Looking these up in the
+[list of potion ingredients], we see these are associated with the digits
+1, 2, 5, 9, and 0, respectively.
+
+But this is not the correct order of the digits. Each ingredient has a
+quantity containing a number. The ingredients need to be listed in the
+order of these numbers: 1-Urine, 2-Pus, 3-Cockroaches, 4-Sneezewort,
+5-Tubeworms. This order yeilds the correct code: 51029.
+
+[banishment potion]: #banishment-potion
+[box 9]: #banishment-potion-box-9
+[box 10]: #lizzy-unchained-box-10
 
 
 ## Flow Diagram
