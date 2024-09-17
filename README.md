@@ -7,4 +7,7 @@ tested by running
 hugo serve
 ```
 
+License information can be found in
+[content/about/license.md](content/about/license.md).
+
 [Hugo]: https://gohugo.io/

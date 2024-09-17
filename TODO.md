@@ -28,9 +28,6 @@
 * Orders and Arrangement
   * Deck of cards
   * Sort index cards
-  * Blocks and grooves
-    * Blocks of wood sliced with grooves with a table saw.
-    * Stack blocks to align grooves. Holes in side show passcode
 * Mirrors
   * Reflected numbers
   * Half digits. Print half of symmetric digits that become whole when
@@ -48,7 +45,6 @@
     * Should add cut up map
 * QR construction
   * Overlap QR
-  * Fold to back
   * Back of door
 * Miscellany
   * Missing segments in 7-segment display
