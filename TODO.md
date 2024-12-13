@@ -56,7 +56,6 @@
   * Image for reflected code
   * Images and thumbnail for invisible ink
   * Images and thumbnail for fold back QR
-  * Images and thumbnail for hanging boss
   * Images and thumbnail for groovy blocks
   * Images missing from ghost chasers
 
