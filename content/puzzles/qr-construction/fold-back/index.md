@@ -2,7 +2,7 @@
 title: "Fold Back QR"
 date: 2024-07-04T23:14:14-04:00
 weight:
-thumbnail: "blank.png"
+thumbnail: "fold-back.jpg"
 summary: "A sheet of paper must be folded backwards to line up a QR code."
 ---
 
@@ -24,15 +24,11 @@ image.
 To solve the puzzle, players must fold the page backward to bring the two
 ends together on the opposite side.
 
-{{% example %}}
-Folding the QR code.
-{{% /example %}}
+{{< example-image src="folded-qr.jpg" >}}
 
 On the other side, players must line up the edges of the QR code.
 
-{{% example %}}
-Folded code.
-{{% /example %}}
+{{< example-image src="folded-code.jpg" >}}
 
 To make the QR alignment possible, the ends of the paper need to be trimmed
 right to the QR code. Also note that to make the code work players need to
