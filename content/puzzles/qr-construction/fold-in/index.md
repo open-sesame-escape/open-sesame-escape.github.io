@@ -12,7 +12,7 @@ code printed on it. The codes cannot be properly scanned on the flat paper.
 {{< example-image src="qr-fold-in.png" link="qr-fold-in.pdf" >}}
 
 The trick is to fold the paper to bring the pieces of QR code together. I
-suggest using a simple fold reminiscent of [_Mad Fold-Ins] (also known as
+suggest using a simple fold reminiscent of [Mad Fold-Ins] (also known as
 an [origami pleat fold]).
 
 {{< example-image src="qr-folding.png" >}}
@@ -38,6 +38,6 @@ tricky diagonal fold.
 
 {{< example-image src="qr-folded-2.jpg" >}}
 
-[_Mad Fold-Ins]: https://en.wikipedia.org/wiki/Mad_Fold-in
+[Mad Fold-Ins]: https://en.wikipedia.org/wiki/Mad_Fold-in
 [origami pleat fold]: https://www.origamiway.com/origami-pleat-fold.shtml
 [properly scanned]: ../#changes-that-break-qr-codes
