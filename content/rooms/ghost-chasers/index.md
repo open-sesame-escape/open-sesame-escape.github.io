@@ -172,7 +172,7 @@ straight lookup.
 [QR construction]: /puzzles/qr-construction/
 [fold back QR]: /puzzles/qr-construction/fold-back/
 [box 1]: #start-tool-collection-box-1
-[EVP simulator]: https://www.drmoron.org/ghostchasers/evp/
+[EVP simulator]: https://www.open-sesame.xyz/ghostchasers/evp/
 
 
 ## Research (Box 5)
@@ -509,7 +509,7 @@ another variation of the [code-word lookup] puzzle, these words are
 cross-referenced in [Lizzy's shopping list] from [box 12]. This provides
 the digits 8, 3, 1, and 4, which form the proper code 8314.
 
-[spirit box]: https://www.drmoron.org/ghostchasers/spirit-box/
+[spirit box]: https://www.open-sesame.xyz/ghostchasers/spirit-box
 [box 11]: #spirit-box-box-11
 [Lizzy's shopping list]: #lizzys-shopping-list
 [box 12]: #lizzy-defeated-box-12
