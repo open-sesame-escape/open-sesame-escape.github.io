@@ -73,9 +73,7 @@ in a [stick word grid]. The words spell out a message that points to a
 location for players to find a key where they [normally would not look]. I
 made the message "look under chairs".
 
-{{% example %}}
-TODO: Picture of knives in arrangement.
-{{% /example %}}
+{{< example-image src="knives.jpg" >}}
 
 The key opens a box that contains, among other things, an "ectoplasm reveal
 tool" (an ultraviolet light). It will be used later to [reveal secret
@@ -255,9 +253,7 @@ again. I'll bring Mr. Knife for luck.
 simulate this by shining the UV flashlight ([ectoplasm tool]) on a provided
 Ouija board. The revealed ink shows the path of the entrance code word.
 
-{{% example %}}
-TODO: Picture of Ouija board with invisible ink.
-{{% /example %}}
+{{< example-image src="ouija-message.jpg" >}}
 
 You could probably construct this puzzle with a store-bought Ouija board.
 But if you are cheap, like me, you can just [print] the pattern of a board
@@ -401,7 +397,7 @@ herself as a malevolent spirit intent on committing evil.
 When players unlock this "box," a horrible figure drops from the ceiling.
 (The puzzle is set up as a [hanging boss]. A Halloween decoration of a
 ghost works well for the figurine of Lizzy.) When Lizzy unfurls, a note is
-also droped revealing her true nature.
+also dropped revealing her true nature.
 
 {{% example %}}
 Fools! Now that you have opened the portal, I will unleash hell upon the
