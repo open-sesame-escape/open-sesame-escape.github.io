@@ -15,9 +15,7 @@ This code, however, does not open any lock. The trick is that players have
 to use a mirror to see the reflection of the digits. The reflected image
 has the correct code.
 
-{{% example %}}
-Picture of code reflected in mirror.
-{{% /example %}}
+{{< example-image src="reflected-image.jpg" >}}
 
 When selecting numbers for the code, make sure that each digit makes sense
 in both the original printing and in the mirror image. For example, the

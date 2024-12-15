@@ -52,7 +52,6 @@
     * https://www.reddit.com/r/puzzles/comments/1e17v56/solve_the_following_puzzle_below_to_work_out_the/
 
 * TODO before posting
-  * Image for reflected code
   * Images and thumbnail for invisible ink
   * Images and thumbnail for groovy blocks
   * Images missing from ghost chasers
