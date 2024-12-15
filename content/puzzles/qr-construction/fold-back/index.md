@@ -2,7 +2,7 @@
 title: "Fold Back QR"
 date: 2024-07-04T23:14:14-04:00
 weight:
-thumbnail: "fold-back.jpg"
+thumbnail: "fold-back.png"
 summary: "A sheet of paper must be folded backwards to line up a QR code."
 ---
 
