@@ -1,9 +1,9 @@
 ---
 title: "License"
 date: 2024-09-16T21:56:08-04:00
-weight:
+weight: 20
 thumbnail: "blank.png"
-summary: " "
+summary: "You're welcome to use the material here for personal purposes. Here are the details on the conditions of use."
 ---
 
 Except where otherwise specified,
