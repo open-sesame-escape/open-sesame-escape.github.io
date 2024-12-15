@@ -7,11 +7,15 @@ summary: "Hide a clue underneath an easy to move object."
 ---
 
 A simple hiding place is a message underneath another object. The object
-can be a simple prop such as a plate or cup.
+can be a simple prop such as a plate or cup. For example, your escape room
+might have this normal place setting.
 
-{{% example %}}
-Picture of plate on table then plate held with message on table underneath.
-{{% /example %}}
+{{< example-image src="place-setting.jpg" >}}
+
+The players are expected to search around for clues. Simply lifting up the
+objects reveals a hidden clue.
+
+{{< example-image src="hidden-underneath.jpg" >}}
 
 This is a simple puzzle that encourages players to interact with the
 objects in the room. Players usually find the clue simply by picking up and

@@ -10,14 +10,19 @@ Place a clue on the bottom side of an object. This puzzle works similarly
 to placing a clue [underneath] an object except that the clue is stuck to
 the underside.
 
-{{% example %}}
-Picture of plate on table (and maybe also silverware) and then the bottom
-side of the plate with a clue (and maybe also a knife).
-{{% /example %}}
-
 The fun part about this puzzle is that sometimes players will pick up an
 object to look underneath it, but miss the note that is stuck to the
 underside.
+
+In the example from the previous puzzle, the players might check underneath
+the plates in a place setting, but find nothing.
+
+{{< example-image src="no-clue.jpg" >}}
+
+The players may check several times before looking at the bottom of the
+plate where the real clue is.
+
+{{< example-image src="hidden-underside.jpg" >}}
 
 
 [underneath]: ../underneath/
