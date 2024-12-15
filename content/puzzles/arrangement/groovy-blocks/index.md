@@ -2,34 +2,28 @@
 title: "Groovy Blocks"
 date: 2024-07-18T21:17:22-04:00
 weight:
-thumbnail: "blank.png"
+thumbnail: "groovy-blocks.png"
 summary: "The grooves in blocks don't seem to align, until you stack them."
 ---
 
 This puzzle starts with a collection of blocks. The blocks have some
 grooves cut into opposing ends.
 
-{{% example %}}
-TODO: Image of groovy blocks haphazardly placed.
-{{% /example %}}
+{{< example-image src="blocks-haphazard.jpg" >}}
 
 Players will probably quickly realize that although there are several
 different patterns, some of the patterns line up. Players will probably try
 to line up the blocks to make the grooves continuous, but this will not
 work for more than a pair of blocks.
 
-{{% example %}}
-TODO: Blocks aligned horizontally unsuccessfully.
-{{% /example %}}
+{{< example-image src="blocks-unsuccessful.jpg" >}}
 
 The trick to this puzzle is that the blocks need to be stacked vertically
 rather than arranged horizontally. When stacked, the groove patterns can be
 matched up. More importantly, the holes formed by the grooves form a
 pattern of numbers.
 
-{{% example %}}
-TODO: Blocks stacked vertically showing number.
-{{% /example %}}
+{{< example-image src="blocks-stacked.jpg" >}}
 
 Looking at the side of the blocks, the code is 8347.
 
