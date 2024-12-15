@@ -3,10 +3,6 @@ title: "Open Sesame"
 weight: 0
 ---
 
-![](images/under-construction.png)
-**Note: This site is under construction. You may encounter missing pieces.
-The URL will eventually change, so be wary about saving links.**
-
 # Open Sesame
 
 Welcome to the Open Sesame DIY escape room site. Here you will find
