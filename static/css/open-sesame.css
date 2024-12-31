@@ -39,3 +39,6 @@ table {
 .childsubsection td {
     padding-bottom: 1rem;
 }
+.childsubsection h3 {
+    padding-top: 2rem;
+}
