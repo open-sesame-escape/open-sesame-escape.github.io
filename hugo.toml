@@ -24,9 +24,6 @@ theme = "relearn"
   # You can also set `author.email` if you want to publish this information.
   author.name = "Kenneth Moreland"
 
-  # Description of the site, will be used in meta information. (Not used?)
-  description = "Open Sesame: Do-it-yourself escape rooms in your own home."
-
   # The social media image of your site.
   # This is used for generating social media meta information for the opengraph
   # protocol and twitter cards.

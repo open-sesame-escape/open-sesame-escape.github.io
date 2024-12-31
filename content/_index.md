@@ -1,6 +1,7 @@
 ---
 title: "Open Sesame"
 weight: 0
+description: "Open Sesame: Do-it-yourself escape rooms in your own home."
 ---
 
 # Open Sesame
