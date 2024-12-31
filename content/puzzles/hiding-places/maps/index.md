@@ -17,4 +17,4 @@ map I once used to lead players to find a key hidden in the window drapes.
 
 {{< example-image src="emf-map.png" >}}
 
-[not expected find]: ../unfair-hiding-places/
+[not expected find]: /puzzles/hiding-places/unfair-hiding-places/

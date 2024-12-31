@@ -44,5 +44,5 @@ give a message of symbols outright, the symbols and order can be extracted
 from another puzzle, like the grid lookup.
 
 
-[alphabetic substitution cipher]: ../alphabetic-substitution/
+[alphabetic substitution cipher]: /puzzles/ciphers/alphabetic-substitution/
 [symbol algebra]: /puzzles/paper-and-pencil/symbol-algebra

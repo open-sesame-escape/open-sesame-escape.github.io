@@ -106,7 +106,7 @@ theme = "relearn"
   # aborted.
   # Please note that this can not resolve files inside of your `static` directory.
   # This can be overridden in the page's frontmatter.
-  image.errorlevel = 'error'
+  image.errorlevel = 'warning'
 
   # Generate link URLs the Hugo way.
   # Default: false
@@ -125,7 +125,7 @@ theme = "relearn"
   # Please note that with Hugo < 0.123.0 + `uglyURLs=true` this can lead to false
   # negatives.
   # This can be overridden in the page's frontmatter.
-  link.errorlevel = 'error'
+  link.errorlevel = 'warning'
 
   # URL for external Mermaid library.
   # Default: not set

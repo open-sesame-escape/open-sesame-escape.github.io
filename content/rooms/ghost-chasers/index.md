@@ -139,7 +139,7 @@ If the players listen carefully, in the static they can hear the numbers
 six-six-four-three, which form the combination to the box's lock.
 
 The box contains an encoding for astrological symbols, which will be used
-[in a later puzzle](#spirit-box-box-8). The encoding can be embedded in its
+[in a later puzzle](#spirit-box-box-11). The encoding can be embedded in its
 own [symbol algebra].
 
 {{% example %}}

@@ -6,8 +6,9 @@ summary: "The capital letters in the message don't follow grammar. That's
 because they spell out a secret."
 ---
 
-Instead of [highlighting letters](../highlight-letters) using a change in
-font, another way to hide a message in a note is to use capitol letters.
+Instead of [highlighting letters](/puzzles/hidden-messages/highlight-letters)
+using a change in font, another way to hide a message in a note is to use
+capitol letters.
 
 The note is fairly normal, but the capitol letters do not follow correct
 grammar rules. Instead, the entire message is in lowercase except capitol
