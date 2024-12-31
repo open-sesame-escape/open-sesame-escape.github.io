@@ -7,9 +7,9 @@ theme = "relearn"
 # Add `print` to home, section and page to activate the feature to print whole
 # chapters
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "PRINT"]
-  section = [ "HTML", "RSS", "JSON", "PRINT"]
-  page = [ "HTML", "RSS", "JSON", "PRINT"]
+  home = [ "HTML", "RSS", "PRINT"]
+  section = [ "HTML", "RSS", "PRINT"]
+  page = [ "HTML", "RSS", "PRINT"]
 
 # This is necessary to make my shortcodes work with markdown
 [markup]
