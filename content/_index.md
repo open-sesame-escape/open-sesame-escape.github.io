@@ -2,6 +2,8 @@
 title: "Open Sesame"
 weight: 0
 description: "Open Sesame: Do-it-yourself escape rooms in your own home."
+params:
+  no-child-summary: true
 ---
 
 Welcome to the Open Sesame DIY escape room site. Here you will find

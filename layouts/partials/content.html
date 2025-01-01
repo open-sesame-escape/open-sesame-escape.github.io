@@ -1,5 +1,6 @@
 {{ .Content }}
 
+{{ if not (.Page.Param "no-child-summary") }}
 {{ with .Page.Pages }}
 <div class="child-summaries">
     <table>
@@ -60,4 +61,5 @@
       {{ end }}
     </table>
   </div>
-  {{ end }}
+{{ end }}
+{{ end }}
