@@ -517,7 +517,7 @@ the digits 8, 3, 1, and 4, which form the proper code 8314.
 The materials and suggested puzzles of this escape room follow the
 following flow diagram.
 
-{{< mermaid align="center" >}}
+```mermaid {align="center"}
 graph TB;
   R1[Room 1: Living Space] --> B1 & B2 & B3
   style R1 fill:#fee,stroke:#b66
@@ -537,4 +537,4 @@ graph TB;
   B12(Box 12: Lizzy Defeated) --> E
   E(Exit: Escape House)
   style E fill:#fee,stroke:#b66
-{{< /mermaid >}}
+```

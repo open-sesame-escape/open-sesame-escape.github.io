@@ -399,18 +399,21 @@ to end the challenge of your escape room.
 The materials and suggested puzzles of this escape room follow the
 following flow diagram.
 
-{{< mermaid align="center" >}}
+```mermaid {align="center"}
 graph TB;
   R1(Room 1: Office Space) --> B1 & B3
+  style R1 fill:#fee,stroke:#b66
   B1(Box 1: Reestablish Email) --> B2
   B2(Box 2: Getting the Formula) --> R2
   B3(Box 3: 'Oregano' Stash) --> R2
   R2(Room 2: Lab) --> B4 & B5
+  style R2 fill:#fee,stroke:#b66
   B4(Box 4: Lab Stuff) --> B7 & B8
   B5(Box 5: A Mutation) --> B6
   B6(Box 6: Login Page) --> B8
   B7(Box 7: Survival Kit) --> E
   B8(Box 8: Zombies!) --> E
   E(Exit: Find Dr) --> Bonus
+  style E fill:#fee,stroke:#b66
   Bonus(Bonus: Attack)
-{{< /mermaid >}}
+```

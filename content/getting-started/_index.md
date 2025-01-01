@@ -29,14 +29,17 @@ that shortly), the elements can be arranged in a flow diagram that
 specifies the order in which players must solve them. Here is an example of
 how an escape room might be structured.
 
-{{< mermaid align="center" >}}
+```mermaid {align="center"}
 graph TB;
   R1[Room 1: Office Space] --> B1(Box 1: Formula) & B2(Box 2: 'Oregano' Stash)
+  style R1 fill:#fee,stroke:#b66
   B1 & B2 --> R2[Room 2: Laboratory]
   R2 --> B3(Box 3: Lab Notes)
+  style R2 fill:#fee,stroke:#b66
   B3 --> B4(Box 4: Secure Email) & B5(Box 5: Weapons)
   B4 & B5 --> E[Exit]
-{{< /mermaid >}}
+  style E fill:#fee,stroke:#b66
+```
 
 What makes organizing your escape room this way so important is that it
 allows you to ensure that the arrangement of items in your escape room is
