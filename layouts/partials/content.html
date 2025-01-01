@@ -1,65 +1,65 @@
 {{ .Content }}
 
-{{ if not (.Page.Param "no-child-summary") }}
-{{ with .Page.Pages }}
+{{- if not (.Page.Param "no-child-summary") }}
+{{- with .Page.Pages }}
 <div class="child-summaries">
-    <table>
-      {{ range . }}
-      {{ if .Page.Pages }}
-        {{/* Page is a subsection. Print the title and all sub-pages. */}}
-        <tr class="child-subsection">
-          <td colspan="2" style="background-color: var(--INTERNAL-MAIN-BG-color);">
-            <a href="{{ .RelPermalink }}">
-              <h3>{{ .Title }}</h3>
-              <p>{{ .Summary }}</p>
-            </a>
-          </td>
-        </tr>
-        {{ range .Page.Pages }}
-          <tr>
-            <td width="55px" style="padding-right:5px; background-color: var(--INTERNAL-MAIN-BG-color);">
-              <a href="{{ .RelPermalink }}">
-                {{ if .Params.thumbnail }}
-                  <img width="50px" height="50px"
-                       src="{{ .Site.BaseURL }}images/thumbnails/{{ .Params.thumbnail }}"
-                       alt="{{ .Title }}"/>
-                {{ else }}
-                  <img width="50px" height="50px"
-                       src="{{ .Site.BaseURL }}images/thumbnails/blank.png"
-                       alt="{{ .Title }}"/>
-                {{ end }}
-              </a>
-            </td>
-            <td style="background-color: var(--INTERNAL-MAIN-BG-color);">
-              <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
-              <p>{{ .Summary }}</p>
-            </td>
-          </tr>
-        {{ end }}
-      {{ else }}
-        {{/* Page is normal end page. Print it's info. */}}
-        <tr>
-          <td width="55px" style="padding-right:5px; background-color: var(--INTERNAL-MAIN-BG-color);">
-            <a href="{{ .RelPermalink }}">
-              {{ if .Params.thumbnail }}
-                <img width="50px" height="50px"
-                     src="{{ .Site.BaseURL }}images/thumbnails/{{ .Params.thumbnail }}"
-                     alt="{{ .Title }}"/>
-              {{ else }}
-                <img width="50px" height="50px"
-                     src="{{ .Site.BaseURL }}images/thumbnails/blank.png"
-                     alt="{{ .Title }}"/>
-              {{ end }}
-            </a>
-          </td>
-          <td style="background-color: var(--INTERNAL-MAIN-BG-color);">
-            <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
-            <p>{{ .Summary }}</p>
-          </td>
-        </tr>
-      {{ end }}
-      {{ end }}
-    </table>
-  </div>
-{{ end }}
-{{ end }}
+  <table>
+{{- range . }}
+{{- if .Page.Pages }}
+{{- /* Page is a subsection. Print the title and all sub-pages. */}}
+    <tr class="child-subsection">
+      <td colspan="2" style="background-color: var(--INTERNAL-MAIN-BG-color);">
+        <a href="{{ .RelPermalink }}">
+          <h3>{{ .Title }}</h3>
+          <p>{{ .Summary }}</p>
+        </a>
+      </td>
+    </tr>
+{{- range .Page.Pages }}
+    <tr>
+      <td width="55px" style="padding-right:5px; background-color: var(--INTERNAL-MAIN-BG-color);">
+        <a href="{{ .RelPermalink }}">
+{{- if .Params.thumbnail }}
+          <img width="50px" height="50px"
+               src="{{ .Site.BaseURL }}images/thumbnails/{{ .Params.thumbnail }}"
+               alt="{{ .Title }}"/>
+{{- else }}
+          <img width="50px" height="50px"
+               src="{{ .Site.BaseURL }}images/thumbnails/blank.png"
+               alt="{{ .Title }}"/>
+{{- end }}
+        </a>
+      </td>
+      <td style="background-color: var(--INTERNAL-MAIN-BG-color);">
+        <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+        <p>{{ .Summary }}</p>
+      </td>
+    </tr>
+{{- end }}
+{{- else }}
+{{- /* Page is normal end page. Print it's info. */}}
+    <tr>
+      <td width="55px" style="padding-right:5px; background-color: var(--INTERNAL-MAIN-BG-color);">
+        <a href="{{ .RelPermalink }}">
+{{- if .Params.thumbnail }}
+          <img width="50px" height="50px"
+               src="{{ .Site.BaseURL }}images/thumbnails/{{ .Params.thumbnail }}"
+               alt="{{ .Title }}"/>
+{{- else }}
+          <img width="50px" height="50px"
+               src="{{ .Site.BaseURL }}images/thumbnails/blank.png"
+               alt="{{ .Title }}"/>
+{{- end }}
+        </a>
+      </td>
+      <td style="background-color: var(--INTERNAL-MAIN-BG-color);">
+        <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+        <p>{{ .Summary }}</p>
+      </td>
+    </tr>
+{{- end }}
+{{- end }}
+  </table>
+</div>
+{{- end }}
+{{- end }}
