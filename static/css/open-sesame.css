@@ -24,16 +24,18 @@ table {
 
 .childsummaries td {
     border: 0px;
-    padding: 0px;
+    padding: 0 0 0.5rem 0;
 }
 
 .childsummaries h4 {
     font-size: 1.25rem;
-    margin: 0.5rem 0 0 0;
+    margin: 0;
+    line-height: 1;
 }
 
 .childsummaries p {
     margin: 0;
+    line-height: 1;
 }
 
 .childsubsection td {

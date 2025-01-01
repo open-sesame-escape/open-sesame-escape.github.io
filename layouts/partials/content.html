@@ -7,16 +7,16 @@
       {{ if .Page.Pages }}
         {{/* Page is a subsection. Print the title and all sub-pages. */}}
         <tr class="childsubsection">
-          <td colspan="2">
-        <a href="{{ .RelPermalink }}">
+          <td colspan="2" style="background-color: var(--INTERNAL-MAIN-BG-color);">
+            <a href="{{ .RelPermalink }}">
               <h3>{{ .Title }}</h3>
               <p>{{ .Summary }}</p>
-        </a>
+            </a>
           </td>
         </tr>
         {{ range .Page.Pages }}
           <tr>
-            <td width="55px" style="padding-right:5px;">
+            <td width="55px" style="padding-right:5px; background-color: var(--INTERNAL-MAIN-BG-color);">
               <a href="{{ .RelPermalink }}">
                 {{ if .Params.thumbnail }}
                   <img width="50px" height="50px"
@@ -29,7 +29,7 @@
                 {{ end }}
               </a>
             </td>
-            <td>
+            <td style="background-color: var(--INTERNAL-MAIN-BG-color);">
               <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
               <p>{{ .Summary }}</p>
             </td>
@@ -38,7 +38,7 @@
       {{ else }}
         {{/* Page is normal end page. Print it's info. */}}
         <tr>
-          <td width="55px" style="padding-right:5px;">
+          <td width="55px" style="padding-right:5px; background-color: var(--INTERNAL-MAIN-BG-color);">
             <a href="{{ .RelPermalink }}">
               {{ if .Params.thumbnail }}
                 <img width="50px" height="50px"
@@ -51,7 +51,7 @@
               {{ end }}
             </a>
           </td>
-          <td>
+          <td style="background-color: var(--INTERNAL-MAIN-BG-color);">
             <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
             <p>{{ .Summary }}</p>
           </td>
