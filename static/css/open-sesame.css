@@ -11,11 +11,6 @@ table {
     max-width: 100%;
 }
 
-/* Undo the odd top/bottom margin for images. */
-#body img {
-    margin: 0px;
-}
-
 /* Style for child summaries table at the end of pages. */
 .child-summaries table {
     border: 0px;
