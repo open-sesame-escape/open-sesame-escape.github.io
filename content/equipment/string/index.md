@@ -24,4 +24,4 @@ they are not to untie strings. None of the puzzles will involve untying
 knots.
 
 
-[locks]: ../locks
+[locks]: /equipment/locks

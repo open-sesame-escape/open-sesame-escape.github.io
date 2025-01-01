@@ -25,4 +25,4 @@ plate where the real clue is.
 {{< example-image src="hidden-underside.jpg" >}}
 
 
-[underneath]: ../underneath/
+[underneath]: /puzzles/hiding-places/underneath/

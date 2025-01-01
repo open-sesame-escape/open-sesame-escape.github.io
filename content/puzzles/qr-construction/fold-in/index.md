@@ -40,4 +40,4 @@ tricky diagonal fold.
 
 [Mad Fold-Ins]: https://en.wikipedia.org/wiki/Mad_Fold-in
 [origami pleat fold]: https://www.origamiway.com/origami-pleat-fold.shtml
-[properly scanned]: ../#changes-that-break-qr-codes
+[properly scanned]: /puzzles/qr-construction/#changes-that-break-qr-codes

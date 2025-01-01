@@ -139,7 +139,7 @@ If the players listen carefully, in the static they can hear the numbers
 six-six-four-three, which form the combination to the box's lock.
 
 The box contains an encoding for astrological symbols, which will be used
-[in a later puzzle](#spirit-box-box-8). The encoding can be embedded in its
+[in a later puzzle](#spirit-box-box-11). The encoding can be embedded in its
 own [symbol algebra].
 
 {{% example %}}
@@ -517,7 +517,7 @@ the digits 8, 3, 1, and 4, which form the proper code 8314.
 The materials and suggested puzzles of this escape room follow the
 following flow diagram.
 
-{{< mermaid align="center" >}}
+```mermaid {align="center"}
 graph TB;
   R1[Room 1: Living Space] --> B1 & B2 & B3
   style R1 fill:#fee,stroke:#b66
@@ -537,4 +537,4 @@ graph TB;
   B12(Box 12: Lizzy Defeated) --> E
   E(Exit: Escape House)
   style E fill:#fee,stroke:#b66
-{{< /mermaid >}}
+```

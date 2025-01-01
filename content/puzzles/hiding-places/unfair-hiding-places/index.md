@@ -78,13 +78,13 @@ are important.
 
 #### Breaking the rules as part of a puzzle
 
-As stated at the beginning, the suggestions here are not unbreakable rules.
-It is up to you to choose how difficult finding objects needs to be. That
-said, these suggestions can also be broken if there is another clue, such
-as a message or [map](../map/), to lead players to find the object. In that
-case, the challenge is not finding the object but solving the puzzle that
+As stated at the beginning, the suggestions here are not unbreakable rules. It
+is up to you to choose how difficult finding objects needs to be. That said,
+these suggestions can also be broken if there is another clue, such as a message
+or [map](/puzzles/hiding-places/maps/), to lead players to find the object. In
+that case, the challenge is not finding the object but solving the puzzle that
 leads to the object. You can place an object out of reach if there is a
 [tool](/puzzles/tools/) to reach it. I have also suggested avoiding having
-players crawl over or under objects. But, of course, this does not apply if
-you want to add physical tasks, perhaps as part of the theme, that players
-need to complete.
+players crawl over or under objects. But, of course, this does not apply if you
+want to add physical tasks, perhaps as part of the theme, that players need to
+complete.

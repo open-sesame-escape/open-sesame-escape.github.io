@@ -1,0 +1,133 @@
+#baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Open Sesame: Escape Rooms in Your Own Home"
+theme = "relearn"
+
+# This is necessary to get the search feature to work (maybe?).
+# Add `print` to home, section and page to activate the feature to print whole
+# chapters
+[outputs]
+  home = [ "HTML", "RSS", "PRINT"]
+  section = [ "HTML", "RSS", "PRINT"]
+  page = [ "HTML", "RSS", "PRINT"]
+
+# This is necessary to make my shortcodes work with markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Note: More options available in
+# `themes/relearn/exampleSite/config/_default/params.toml`
+[params]
+  # Author of the site, will be used in meta information.
+  # You can also set `author.email` if you want to publish this information.
+  author.name = "Kenneth Moreland"
+
+  # The social media image of your site.
+  # This is used for generating social media meta information for the opengraph
+  # protocol and twitter cards.
+  # This can be overridden in the page's frontmatter.
+  #images = [ 'images/hero.png' ]
+
+  # Change default color scheme with a variant one. Options for the theme get
+  # complex. See
+  # https://mcshelby.github.io/hugo-theme-relearn/configuration/branding/colors/
+  # for details.
+  themeVariant = "open-sesame"
+
+  # Hide the breadcrumbs.
+  # Default: false
+  # If the breadcrumbs are hidden, the title of the displayed page will still be
+  # shown in the topbar.
+  disableBreadcrumb = false
+
+  # Hide Next and Previous navigation buttons.
+  # Default: false
+  # If the navigation buttons are hidden, also the keyboard shortcuts are
+  # disabled.
+  disableNextPrev = true
+
+  # Disable the search.
+  # Default: false
+  # If the search is disabled, no search box will be displayed in the menu,
+  # nor in-page search, search popup or dedicated search page will be available.
+  # This will also cause the keyboard shortcut to be disabled.
+  disableSearch = false
+
+  # Hide the Home entry.
+  # Default: false
+  # If shown, a Home button will appear below the search bar and the main menu.
+  # It links to your the home page of the current language.
+  disableLandingPageButton = false
+
+  # Shows checkmarks for visited pages of the main menu.
+  # Default: false
+  # This also causes the display of the `Clear History` entry in the lower part
+  # of the menu to remove all checkmarks. The checkmarks will also been removed
+  # if you regenerate your site as the ids are not stable.
+  showVisitedLinks = false
+
+  # The order of main menu submenus.
+  # Default: 'weight'
+  # Submenus can be ordered by 'weight', 'title', 'linktitle', 'modifieddate',
+  # 'expirydate', 'publishdate', 'date', 'length' or 'default' (adhering to
+  # Hugo's default sort order). This can be overridden in the pages frontmatter.
+  ordersectionsby = 'weight'
+
+  # The initial expand state of submenus.
+  # Default: not set
+  # This controls whether submenus will be expanded (true), or collapsed (false)
+  # in the menu. If not set, the first menu level is set to false, all others
+  # levels are set to true. This can be overridden in the page's frontmatter.
+  # If the displayed page has submenus, they will always been displayed expanded
+  # regardless of this option.
+  alwaysopen = false
+
+  # Shows expander for submenus.
+  # Default: false
+  # If set to true, a submenu in the sidebar will be displayed in a collapsible
+  # tree view and a clickable expander is set in front of the entry.
+  # This can be overridden in the page's frontmatter.
+  collapsibleMenu = true
+
+  # Title separator.
+  # Default: '::'
+  # Changes the title separator used when concatenating the page title with the
+  # site title. This is consistently used throughout the theme.
+  titleSeparator = '-'
+
+  # What to do when local image link is not resolved.
+  # Default: ''
+  # You can control what should happen if a local image can not be resolved to as
+  # a resource. If not set, the unresolved link is written as given into the resulting
+  # output. If set to `warning` the same happens and an additional warning is
+  # printed. If set to `error` an error message is printed and the build is
+  # aborted.
+  # Please note that this can not resolve files inside of your `static` directory.
+  # This can be overridden in the page's frontmatter.
+  image.errorlevel = 'warning'
+
+  # Generate link URLs the Hugo way.
+  # Default: false
+  # If set to true, the theme behaves like a standard Hugo installation and
+  # appends no index.html to prettyURLs. As a trade off, your build project will
+  # not be servable from the file system.
+  disableExplicitIndexURLs = true
+
+  # What to do when local page link is not resolved.
+  # Default: ''
+  # You can control what should happen if a local link can not be resolved to a
+  # page. If not set, the unresolved link is written as given into the resulting
+  # output. If set to `warning` the same happens and an additional warning is
+  # printed. If set to `error` an error message is printed and the build is
+  # aborted.
+  # Please note that with Hugo < 0.123.0 + `uglyURLs=true` this can lead to false
+  # negatives.
+  # This can be overridden in the page's frontmatter.
+  link.errorlevel = 'warning'
+
+  # Hide copy-to-clipboard for inline code.
+  # Default: false
+  # This removes the copy-to-clipboard button from your inline code.
+  disableInlineCopyToClipBoard = true
