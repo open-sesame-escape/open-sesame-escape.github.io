@@ -126,10 +126,3 @@ theme = "relearn"
   # negatives.
   # This can be overridden in the page's frontmatter.
   link.errorlevel = 'warning'
-
-  # URL for external Mermaid library.
-  # Default: not set
-  # Specifies the remote location of the Mermaid library. By default the shipped
-  # version will be used.
-  # This can be overridden in the page's frontmatter.
-  customMermaidURL = 'https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js'
