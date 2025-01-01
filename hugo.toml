@@ -126,3 +126,8 @@ theme = "relearn"
   # negatives.
   # This can be overridden in the page's frontmatter.
   link.errorlevel = 'warning'
+
+  # Hide copy-to-clipboard for inline code.
+  # Default: false
+  # This removes the copy-to-clipboard button from your inline code.
+  disableInlineCopyToClipBoard = true
