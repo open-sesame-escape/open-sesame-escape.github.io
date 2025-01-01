@@ -16,31 +16,31 @@ table {
     margin: 0px;
 }
 
-/* Style for childsummaries shortcode. */
-.childsummaries table {
+/* Style for child summaries table at the end of pages. */
+.child-summaries table {
     border: 0px;
     padding: 0px;
 }
 
-.childsummaries td {
+.child-summaries td {
     border: 0px;
     padding: 0 0 0.5rem 0;
 }
 
-.childsummaries h4 {
+.child-summaries h4 {
     font-size: 1.25rem;
     margin: 0;
     line-height: 1;
 }
 
-.childsummaries p {
+.child-summaries p {
     margin: 0;
     line-height: 1;
 }
 
-.childsubsection td {
+.child-subsection td {
     padding-bottom: 1rem;
 }
-.childsubsection h3 {
+.child-subsection h3 {
     padding-top: 2rem;
 }

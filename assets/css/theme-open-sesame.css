@@ -17,7 +17,7 @@
     --MENU-SEARCH-BORDER-color: #8B0000; /* Override search field border color */
     --MENU-SEARCH-BOX-ICONS-color: #cccccc; /* Override search field icons color */
 
-    --MENU-SECTIONS-ACTIVE-BG-color:#1b211c; /* Background color of the active section and its childs */
+    --MENU-SECTIONS-ACTIVE-BG-color:#1b211c; /* Background color of the active section and its children */
     --MENU-SECTIONS-BG-color:#222723; /* Background color of other sections */
     --MENU-SECTIONS-LINK-color: #ccc; /* Color of links in menu */
     --MENU-SECTIONS-LINK-HOVER-color: #e6e6e6;  /* Color of links in menu, when hovered */

@@ -1,12 +1,12 @@
 {{ .Content }}
 
 {{ with .Page.Pages }}
-<div class="childsummaries">
+<div class="child-summaries">
     <table>
       {{ range . }}
       {{ if .Page.Pages }}
         {{/* Page is a subsection. Print the title and all sub-pages. */}}
-        <tr class="childsubsection">
+        <tr class="child-subsection">
           <td colspan="2" style="background-color: var(--INTERNAL-MAIN-BG-color);">
             <a href="{{ .RelPermalink }}">
               <h3>{{ .Title }}</h3>
