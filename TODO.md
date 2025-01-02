@@ -52,7 +52,6 @@
     * https://www.reddit.com/r/puzzles/comments/1e17v56/solve_the_following_puzzle_below_to_work_out_the/
 
 * TODO after posting
-  * Web page for alternative for direction lock (which has been discontinued)
   * Update online examples to use real web page for virus
     * update COVID-19 with NEONORO
     * Remove player names

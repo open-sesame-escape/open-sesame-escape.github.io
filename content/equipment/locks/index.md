@@ -64,7 +64,13 @@ A directional lock lends a nice change to the code representation, but it
 tends to be a little tricky to represent directions in a puzzle. I've never
 seen more than one used in any escape room.
 
+Unfortunately, at the time of this writing, Masterlock has discontinued its
+production of directional padlocks, and so far no other company is producing any
+replacements. If you cannot get a hold of a physical directional lock consider
+[this alternative approach].
+
 [directional lock]: https://www.masterlock.com/personal-use/product/1500iD
+[this alternative approach]: /equipment/directional-lock-alternative
 
 ## Key Locks
 
