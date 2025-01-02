@@ -16,6 +16,7 @@
       </td>
     </tr>
 {{- range .Page.Pages }}
+{{- if not .Params.hidden }}
     <tr>
       <td width="55px" style="padding-right:5px; background-color: var(--INTERNAL-MAIN-BG-color);">
         <a href="{{ .RelPermalink }}">
@@ -36,8 +37,10 @@
       </td>
     </tr>
 {{- end }}
+{{- end }}
 {{- else }}
-{{- /* Page is normal end page. Print it's info. */}}
+{{- /* Page is normal end page. Print its info if not hidden. */}}
+{{- if not .Params.hidden }}
     <tr>
       <td width="55px" style="padding-right:5px; background-color: var(--INTERNAL-MAIN-BG-color);">
         <a href="{{ .RelPermalink }}">
@@ -57,6 +60,7 @@
         <p>{{ .Summary }}</p>
       </td>
     </tr>
+{{- end }}
 {{- end }}
 {{- end }}
   </table>
