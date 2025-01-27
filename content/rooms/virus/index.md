@@ -16,9 +16,10 @@ there is a lot of flexibility in replacing puzzles if you so desire.
 
 The game is divided into two spaces. They are themed first as an office
 space and a laboratory. The [flow diagram] is drawn at the end of this
-page.
+page as well as the [setup].
 
 [flow diagram]: #flow-diagram
+[setup]: #equipment-and-setup
 
 
 ## Scenario
@@ -58,8 +59,8 @@ reestablish this communication.
 The players start in a room themed as standard office space. Simple office
 materials (desk, table, chairs, bookshelf) set the theme.
 
-The players start with a packed of material sent from Dr. Beaker. Other
-clue puzzles, particular those that are paper based or require a flat
+The players start with a packet of material sent from Dr. Beaker. Other
+clue puzzles, particularly those that are paper based or require a flat
 surface, may also be placed around the room.
 
 
@@ -75,8 +76,8 @@ further instructions to find a formula for virus treatment and break into
 her private lab.
 
 {{% example font="normal" %}}
-**From:** Dr. Susan Beaker &lt;susan.beaker@cyberdyne.gov&gt;  
-**To:** Virus Research Team  
+**From:** Dr. Susan Beaker &lt;susan.beaker@ccd.gov&gt;  
+**To:** Virus Research Team &lt;research-staff@ccd.gov&gt;  
 **Subject:** Please help
 
 ---
@@ -417,3 +418,24 @@ graph TB;
   style E fill:#fee,stroke:#b66
   Bonus(Bonus: Attack)
 ```
+
+## Equipment and Setup
+
+Here is a list of equipment you will need if setting up your escape room in
+the same way as described above. This is organized by the items in the flow
+diagram above. Where possible, I have provided material for you.
+
+* Starting packet contents (handed to players at start)
+  * Clue 0.0.1: [Note from Dr. Beaker](initial-mail.pdf)
+  * Clue 0.0.2: [QR Puzzle](establish-email-qr.pdf) (provided document contains
+    both easier and harder fold-ins)
+* Room 1: Office Space
+  * Items:
+    * Boxes 2, 3
+* Box 1: Reestablish Email
+  * Puzzle: Fold Clue 0.0.2 to build proper QR code. Code leads to on-line
+    email.
+  * Items: This is not really a physical box, but rather a page providing a
+    written message.
+    * Clue 1.1.1: [Email requesting help](http://localhost:63424/help-email/)
+      (online)
