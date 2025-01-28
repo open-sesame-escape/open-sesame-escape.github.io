@@ -16,7 +16,8 @@ there is a lot of flexibility in replacing puzzles if you so desire.
 
 The game is divided into two spaces. They are themed first as an office
 space and a laboratory. The [flow diagram] is drawn at the end of this
-page as well as the [setup].
+page as well as the [setup]. This [setup] also has a list of materials
+you can use to help you build the puzzles.
 
 [flow diagram]: #flow-diagram
 [setup]: #equipment-and-setup
@@ -115,12 +116,11 @@ the formula. But the email contains a hidden code that is used to open a
 box revealing some of Dr. Beaker's lab notes containing the formula (and
 multiple other items used later).
 
-**Suggested Puzzle:** Dr. Beaker's email contains a [hidden message] with a
-code to the box containing her formula. The previously shown message fits
-will with the [number words] puzzle. [This online
-document](email-help-easier.html) can be a target for this puzzle. For a
-more challenging puzzle (with less obvious numbers), [this document can be
-used](email-help-harder.html).
+**Suggested Puzzle:** Dr. Beaker's email contains a [hidden message] with a code
+to the box containing her formula. The previously shown message fits will with
+the [number words] puzzle. [This online
+document](https://www.open-sesame.xyz/virus/help-email) can be a target for this
+puzzle.
 
 Once open, the box contains lab notes describing a formula Dr. Beaker has
 been working on such as this.
@@ -431,11 +431,20 @@ diagram above. Where possible, I have provided material for you.
     both easier and harder fold-ins)
 * Room 1: Office Space
   * Items:
+    * Clue 1.0.1: A copy of the [Periodic Table of
+      Elements](https://en.wikipedia.org/wiki/Periodic_table). It can be a
+      poster mounted on a wall or a paper available elsewhere. Free printable
+      versions are available on the web.
     * Boxes 2, 3
 * Box 1: Reestablish Email
   * Puzzle: Fold Clue 0.0.2 to build proper QR code. Code leads to on-line
     email.
   * Items: This is not really a physical box, but rather a page providing a
     written message.
-    * Clue 1.1.1: [Email requesting help](http://localhost:63424/help-email/)
-      (online)
+    * Clue 1.1.1: [Email requesting
+      help](https://www.open-sesame.xyz/virus/help-email) (online)
+* Box 2: Getting the Formula
+  * Puzzle: Find the hidden code in Clue 1.1.1 by putting together all the
+    numbers in the email.
+  * Items: A locked box, briefcase, or file cabinet containing the formula.
+    * Clue 1.2.1: [Formula](formula-notes.pdf)
