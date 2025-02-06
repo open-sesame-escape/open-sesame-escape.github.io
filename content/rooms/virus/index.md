@@ -429,22 +429,33 @@ diagram above. Where possible, I have provided material for you.
   * Clue 0.0.1: [Note from Dr. Beaker](initial-mail.pdf)
   * Clue 0.0.2: [QR Puzzle](establish-email-qr.pdf) (provided document contains
     both easier and harder fold-ins)
+  * Clue 0.0.3: [Crossword Puzzle](equipment-crossword.pdf)
 * Room 1: Office Space
   * Items:
     * Clue 1.0.1: A copy of the [Periodic Table of
       Elements](https://en.wikipedia.org/wiki/Periodic_table). It can be a
       poster mounted on a wall or a paper available elsewhere. Free printable
       versions are available on the web.
+    * Clue 1.0.2: [Equipment Cleaning Schedule](equipment-schedule.pdf)
     * Boxes 2, 3
 * Box 1: Reestablish Email
-  * Puzzle: Fold Clue 0.0.2 to build proper QR code. Code leads to on-line
-    email.
+  * Puzzle: [QR fold-in]
+    1. Fold Clue 0.0.2 to build proper QR code.
+    2. Code leads to on-line email.
   * Items: This is not really a physical box, but rather a page providing a
     written message.
     * Clue 1.1.1: [Email requesting
       help](https://www.open-sesame.xyz/virus/help-email) (online)
 * Box 2: Getting the Formula
-  * Puzzle: Find the hidden code in Clue 1.1.1 by putting together all the
-    numbers in the email.
+  * Puzzle: [number words]
+    1. Find the hidden code in Clue 1.1.1 by putting together all the
+       numbers in the email.
+    2. Answer: 3216
   * Items: A locked box, briefcase, or file cabinet containing the formula.
     * Clue 1.2.1: [Formula](formula-notes.pdf)
+* Box 3: 'Oregano' Stash
+  * Puzzle: [crossword lookup]
+    1. Solve the crossword puzzle (Clue 0.0.3).
+    2. Find equipment listed in Clue 1.0.2 in the completed puzzle.
+    3. The numbers for each word forms the digits of the code.
+    4. Answer: 6834
