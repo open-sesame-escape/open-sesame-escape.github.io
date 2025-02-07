@@ -132,11 +132,10 @@ Lab notes of Dr. Susan Beaker
 We have made good progress on a formula to reduce respiratory infection in
 patients. The compound includes the following elements.
 
-* Vanadium
-* Indium
-* Carbon
-* Iodine
-* Cobalt
+* Sodium
+* Bromine
+* Mercury
+* Boron
 
 The formula is currently unstable, but we have high hopes to stabilize the
 compound.
@@ -176,22 +175,14 @@ The room itself should be themed like a laboratory. It can have props like
 flasks and tubes that are reminiscent of a lab. More puzzle pieces and
 boxes are placed in this room.
 
-**Suggested Puzzle** The [stick word grid] puzzle can be used here. The
-sticks can be hid in box 3 and/or others, and the formula gives the
-arrangement of the sticks. In the example of the formula above, players can
-translate the names of the elements and convert them to element symbols. (A
-periodic table should be provided for reference.) I used the list of
-symbols above to arrange the sticks below to reference a page in a book I
-happened to have on my bookshelf. (A note with the code for the door was on
-that page.)
+**Suggested Puzzle** The [stick word grid] puzzle can be used here. The sticks
+can be hid in box 3 and/or others, and the formula gives the arrangement of the
+sticks. In the example of the formula above, players can translate the names of
+the elements and convert them to element symbols. (A periodic table should be
+provided for reference.) I used the list of symbols above to arrange the sticks
+below to spell out a message with a numerical code.
 
-{{< example-image src="/puzzles/arrangement/stick-word-grid/sticks-vertical-adjust.jpg" >}}
-
-The sticks in this arrangement make for a challenging puzzle. It could be
-made easier by underlining the symbols that should be ordered. It can also
-be simplified (in terms of both creating and solving) by placing the
-element symbols on the top of the sticks and writing any message below
-them.
+{{< example-image src="element-sticks.jpg" >}}
 
 [stick word grid]: /puzzles/arrangement/stick-word-grid/
 
@@ -459,3 +450,16 @@ diagram above. Where possible, I have provided material for you.
     2. Find equipment listed in Clue 1.0.2 in the completed puzzle.
     3. The numbers for each word forms the digits of the code.
     4. Answer: 6834
+  * Items: A container like a bag, duffle, or purse containing personal items.
+    * Clue 1.3.1: Popsicle sticks with element symbols written in
+      [this pattern](element-sticks.jpg)
+* Room 2: Lab
+  * Puzzle: [stick word grid]
+    1. Translate the element names in the formula (Clue 1.2.1) with the
+       periodic table (Clue 1.0.1).
+    2. Arrange the popsicle sticks (Clue 1.3.1) so that the top element symbols
+       match the translated list in the formula.
+    3. The letters of the formula are put together to form a message: N I Ne F O
+       U R Ni Ne O Ne -> NINe FOUR NiNe ONe
+    4. Anser: 9491
+  * Items:
