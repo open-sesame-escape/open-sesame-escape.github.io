@@ -444,6 +444,7 @@ diagram above. Where possible, I have provided material for you.
     2. Answer: 3216
   * Items: A locked box, briefcase, or file cabinet containing the formula.
     * Clue 1.2.1: [Formula](formula-notes.pdf)
+    * Clue 1.2.2: [Paper segment display hole template](hole-digits.pdf)
 * Box 3: 'Oregano' Stash
   * Puzzle: [crossword lookup]
     1. Solve the crossword puzzle (Clue 0.0.3).
@@ -461,5 +462,15 @@ diagram above. Where possible, I have provided material for you.
        match the translated list in the formula.
     3. The letters of the formula are put together to form a message: N I Ne F O
        U R Ni Ne O Ne -> NINe FOUR NiNe ONe
-    4. Anser: 9491
+    4. Answer: 9491
   * Items:
+    * Clue 2.0.1: Acid beaker
+    * Clue 2.0.2: Paper with [coded segment pattern](hole-digits.pdf)
+* Box 4: Lab Stuff
+  * Puzzle: [paper segment display]
+    1. Lay the coded segment pattern (Clue 2.0.2) on a flat surface.
+    2. Place the display hole template (Clue 1.2.2) on the left side of the
+       pattern to reveal the first digit.
+    3. Slide the hole template to subsequent positions to reveal the rest of the
+       digits.
+    4. Answer: 3594
