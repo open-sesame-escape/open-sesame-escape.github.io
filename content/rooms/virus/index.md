@@ -233,7 +233,7 @@ The players must find a way to log in to Dr. Beaker's personal email.
 links to an [email login form]. The username is provided and the players
 must fill out the password.
 
-{{< example-image src="/puzzles/misdirection/pointless-form/login-form.png" >}}
+{{< example-image src="login-form.png" >}}
 
 However, there are no clues about what the password might be, and there is
 no logical answer. This is an example of a [pointless form], and attempting
@@ -241,9 +241,9 @@ to guess a password is pointless. Instead, players need to notice the
 [Reset Password] link, which will take them to the correct form.
 
 [QR]: /equipment/internet/#qr-codes
-[email login form]: https://sites.google.com/view/morelandsnl-secure-login
+[email login form]: https://www.open-sesame.xyz/virus/login/
 [pointless form]: /puzzles/misdirection/pointless-form/
-[Reset Password]: https://drive.google.com/open?id=1kXNU3kcv5Q12U32K7Pmb9uuSX5Tf8YmZQtKz08gfMw8
+[Reset Password]: https://www.open-sesame.xyz/virus/login/reset/
 
 
 ## Survival Kit (Box 7)
@@ -421,6 +421,7 @@ diagram above. Where possible, I have provided material for you.
   * Clue 0.0.2: [QR Puzzle](establish-email-qr.pdf) (provided document contains
     both easier and harder fold-ins)
   * Clue 0.0.3: [Crossword Puzzle](equipment-crossword.pdf)
+  * Clue 0.0.4: Jigsaw puzzle with pieces missing.
 * Room 1: Office Space
   * Items:
     * Clue 1.0.1: A copy of the [Periodic Table of
@@ -454,6 +455,8 @@ diagram above. Where possible, I have provided material for you.
   * Items: A container like a bag, duffle, or purse containing personal items.
     * Clue 1.3.1: Popsicle sticks with element symbols written in
       [this pattern](element-sticks.jpg)
+    * Clue 1.3.2: A magnet on a string
+    * Clue 1.3.3: Puzzle pieces set 1 (optional)
 * Room 2: Lab
   * Puzzle: [stick word grid]
     1. Translate the element names in the formula (Clue 1.2.1) with the
@@ -464,8 +467,12 @@ diagram above. Where possible, I have provided material for you.
        U R Ni Ne O Ne -> NINe FOUR NiNe ONe
     4. Answer: 9491
   * Items:
-    * Clue 2.0.1: Acid beaker
+    * Clue 2.0.1: Acid beaker (A vase or other container with an opening too
+      small to reach into the bottom. In the container is some water and a key.
+      Under the container is [a note](acid-message.pdf) warning/instructing
+      players not to move or empty the container, which would be cheating.)
     * Clue 2.0.2: Paper with [coded segment pattern](hole-digits.pdf)
+    * Boxes 4, 5, 7
 * Box 4: Lab Stuff
   * Puzzle: [paper segment display]
     1. Lay the coded segment pattern (Clue 2.0.2) on a flat surface.
@@ -474,3 +481,47 @@ diagram above. Where possible, I have provided material for you.
     3. Slide the hole template to subsequent positions to reveal the rest of the
        digits.
     4. Answer: 3594
+  * Items:
+    * Clue 2.4.1: [Cryptex] ([This pattern](cryptex-puzzle.pdf) to help form
+      cryptex out of styrofoam cups.)
+    * Clue 2.4.2: Puzzle pieces set 2
+* Box 5: A Mutation
+  * Puzzle: [magnet fishing](/puzzles/tools/magnet-fishing/)
+    1. Dip the magnet (Clue 1.3.2) into the acid beaker (Clue 2.0.1) until the
+       key attaches to the magnet.
+    2. Pull the magnet and key out of the beaker.
+    3. Open the box padlock with the key.
+  * Items:
+    * Clue 2.5.1: [Message about a new virus mutation](mutation-message.pdf)
+    * Clue 2.5.2: [Message about security protocols](security-memo.pdf)
+* Box 6: Login Page
+  * Puzzle: [pointless form]
+    1. Scan the QR code on the message about security protocols (Clue 2.5.2) to
+       access the [login page](https://www.open-sesame.xyz/virus/login/).
+    2. The form will always report "Incorrect Password". There is no correct
+       password.
+    3. The players click the "Reset Password" link at the bottom to access the
+       actual form to access the system.
+  * Items:
+    * Clue 2.6.1: [Password Reset Form](https://www.open-sesame.xyz/virus/login/reset/)
+* Box 7: Survival Kit
+  * Puzzle: [jigsaw holes]
+    1. Players add puzzle pieces set 1 (Clue 1.3.3) to base jigsaw puzzle (Clue
+       0.0.4). This will reveal one set of digits.
+    2. Players add puzzle pieces set 2 (Clue 2.4.2) to jigsaw puzzle to reveal
+       second set of digits.
+    3. Answer (suggested): 1547
+  * Items:
+* Box 8: Zombies!
+  * Puzzle: [cryptex]
+    1. Players rotate the rings of the cryptex (Clue 2.4.1) to form the words
+       (foods, month, child) highlighted in the password reset form (Clue
+       2.6.1).
+    2. Next to each of these words is a secondary answer word (candy, march,
+       tyler).
+    3. These words are entered into the respective box in the form.
+    4. Successfully submitting the form provides access to [another email from
+       Dr. Beaker](https://www.open-sesame.xyz/virus/login/secret-email/).
+    5. At the end of the email is a briefcase code.
+    6. Final answer: 4288
+  * Items:
