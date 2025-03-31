@@ -55,4 +55,8 @@
   * Update online examples to use real web page for virus
     * update COVID-19 with NEONORO
     * Remove player names
+    * Update QR code
   * Link back and forth between groovy blocks and thangs
+  * Summary of material at the bottom of rooms
+    * Virus
+    * Ghost chasers
