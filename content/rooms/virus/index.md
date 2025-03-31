@@ -298,7 +298,7 @@ note the code to a box of physical items.
 
 {{% example font="normal" %}}
 **From:** Dr. Susan Beaker &lt;susan.beaker@cyberdyne.gov&gt;  
-**To:** Virus Research Team  
+**To:** Virus Research Team &lt;research-staff@ccd.gov&gt;  
 **Subject:** Zombies!
 
 ---
@@ -512,6 +512,8 @@ diagram above. Where possible, I have provided material for you.
        second set of digits.
     3. Answer (suggested): 1547
   * Items:
+    * Clue 2.7.1: [World Map](/puzzles/mazes/map-trace/world-map.pdf)
+    * Clue 2.7.2: Foam Dart Guns
 * Box 8: Zombies!
   * Puzzle: [cryptex]
     1. Players rotate the rings of the cryptex (Clue 2.4.1) to form the words
@@ -525,3 +527,21 @@ diagram above. Where possible, I have provided material for you.
     5. At the end of the email is a briefcase code.
     6. Final answer: 4288
   * Items:
+    * Clue 2.8.1: [Boarding Passes](boarding-passes.pdf)
+* Exit: Find Dr
+  * Puzzle: [map trace]
+    1. Order the boarding passes (Clue 2.8.1) by matching arrivals to departures
+       to determine the order countries were visited.
+    2. Trace the country order on the world map (Clue 2.7.1).
+    3. Enter the primarily North/South/West/East directions into a directional
+       lock.
+    4. Answer: South, East, North, East, North, West (i.e., Down, Right, Up,
+       Right, Up, Left)
+    5. Note: If you cannot get a directional lock, consider this [directional
+       lock alternative].
+* Bonus: Attack (optional)
+  * Place some pictures of zombies outside of the exit door.
+  * Players grab the foam dart guns (Clue 2.7.2) and shoot at the zombie targets
+    as they "fight" their way to Dr. Beaker.
+
+[directional lock alternative]: /equipment/directional-lock-alternative/
