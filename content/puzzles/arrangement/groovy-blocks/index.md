@@ -63,5 +63,5 @@ over the edges so that the locations, and hence numbers, can be seen when
 the blocks are stacked correctly.
 
 [3D printer]: /equipment/3d-printer/
-[this STL file]: groovy-blocks.stl
+[this STL file]: groovy-blocks-model.stl
 [this pattern]: groovy-blocks-pattern.pdf

@@ -18,9 +18,14 @@ The game is divided into two spaces. The first space features a dining
 table with place settings. A dining area is perfect for this space. The
 second space represents the spirit world. It should be a dark space with
 spooky lighting and decorations. Black lights and Halloween decorations
-work well here. The [flow diagram] is drawn at the end of this page.
+work well here. The [flow diagram] and [setup] are at the end of this page.
+The [setup] also has materials you can use to help you build the puzzles.
+Also at the bottom is an [audio quick reference] that you can use as a
+game master to have audio cues available to play at events.
 
 [flow diagram]: #flow-diagram
+[setup]: #equipment-and-setup
+[audio quick reference]: #audio-quick-reference
 
 
 ## Scenario
@@ -57,7 +62,7 @@ on the opposite wall is a mirror. The players need to solve a [reflected
 code] puzzle by positioning themselves to view the digits in the mirror.
 The mirror reflection has the correct code to open the lock.
 
-[a sequence of digits]: /puzzles/mirror-images/reflected-code/original-digits.pdf
+[a sequence of digits]: reflected-digits.pdf
 [reflected code]: /puzzles/mirror-images/reflected-code/
 
 
@@ -538,3 +543,166 @@ graph TB;
   E(Exit: Escape House)
   style E fill:#fee,stroke:#b66
 ```
+
+## Equipment and Setup
+
+Here is a list of equipment you will need if setting up your escape room in
+the same way as described above. This is organized by the items in the flow
+diagram above. Where possible, I have provided material for you.
+
+* [Room 1: Living Space](#living-space-room-1)
+  * Contains a dining table with place settings and other possible aristocratic
+    props.
+  * Items:
+    * Clue 1.0.1: Tea light with [tea light message] hidden in the wax. Light
+      the candle as the game starts.
+    * Clue 1.0.2: Plates with [messages](plate-bottoms.pdf) and invisible ink
+      hidden [underneath] or [on the underside].
+    * Clue 1.0.3: Blunt knives with [letters](knife-message.pdf) hidden [on
+      the underside]s.
+    * Clue 1.0.4: Mirror, mounted on wall.
+    * Clue 1.0.5: A [numeric code](reflected-digits.pdf), mounted on wall
+      (visible as a reflection in the mirror).
+    * Clue 1.0.6: A cube puzzle with a QR code attached to one face and then
+      jumbled.
+    * Clue 1.0.7: A [ouija board](ouija-board.pdf) with invisible ink markings.
+    * Clue 1.0.8: A key taped to the underneath a chair.
+    * Clue 1.0.9: A key hidden elsewhere in another [unfair hiding spot].
+    * Boxes 1, 2, 3, 4, 5, 6, 7
+* [Box 1: Start Tools](#start-tool-collection-box-1)
+  * Puzzle: [reflected code]
+    1. View Clue 1.0.5 (numeric code) in Clue 1.0.4 (the mirror) to reveal a
+       different code.
+    2. Answer: 8512
+  * Items:
+    * Clue 1.1.1: [Fold-back QR code](fold-back-qr.pdf)
+* [Box 2: Ectoplasm Tool](#ectoplasm-reveal-tool-box-2)
+  * Puzzle: [underside] + [stick word grid]
+    1. A close inspection of Clue 1.0.3 reveals letters on the underside of the
+       knives.
+    2. The knives are arranged to spell "knife".
+    3. The remainder of the letters spell the message "LOOK UNDER CHAIRS".
+    4. Taped under one chair is Clue 1.0.8, a key that opens the box.
+  * Items:
+    * Clue 1.2.1: An ultraviolet flashlight (referred to as an ectoplasm
+      detection tool).
+* [Box 3: EMF Tool](#emf-tool-box-3)
+  * Puzzle: [QR Cube] + [map]
+    1. Unscramble Clue 1.0.6 to properly arrange the QR code.
+    2. Scan the QR code to an online page or document containing a map of the
+       room pointing to the location of Clue 1.0.9 (a key).
+    3. Use the key to open a box.
+  * Items:
+    * Clue 1.3.1: [Groovy blocks], which can be 3D printed with [this
+      model](groovy-blocks-model.stl) or cut into wood with a table saw and
+      [this pattern](groovy-blocks-pattern.pdf).
+* [Box 4: EVP Tool](#evp-tool-box-4)
+  * Puzzle: [fold back QR]
+    1. Fold back the edges of Clue 1.1.1 to align the edges of the QR code on
+       the opposite side of the paper.
+    2. Scan the QR code to go to the [EVP simulator].
+    3. Click the `Record` button.
+    4. Click the `Vol Up` button until the volume level reads high.
+    5. Play the audio file to hear the code.
+    6. Answer: 6643
+  * Items:
+    * Clue 1.4.1: [Astrological Symbol Algebra](astro-algebra.pdf) **---or---**
+      Clue 1.4.2: [Astrological Symbol Lookup](astro-lookup.pdf).
+* [Box 5: Research](#research-box-5)
+  * Puzzle: [underneath] or [underside] + [invisible ink]
+    1. Find messages underneath or on the underside of Clue 1.0.2.
+    2. Shine Clue 1.2.1 on the messages to reveal the secret code.
+  * Items:
+    * Clue 1.5.1: [Research paper](dream-decoder.pdf) on interpreting dreams.
+    * Clue 1.5.2: [Phrases for life](life-phrases.pdf).
+* [Box 6: Summon Lizzy](#summon-lizzy-box-6)
+  * Puzzle: [invisible ink]
+    1. Shine Clue 1.2.1 on Clue 1.0.7 to reveal a [path](ouija-message.jpg).
+    2. Answer ghost
+  * Items:
+    * Clue 1.6.1: [A note from Lizzy asking for help](lizzy-help.pdf).
+    * Clue 1.6.2: An excerpt from [Lizzy's diary].
+* [Box 7: Reiki](#learn-reiki-box-7)
+  * Puzzle: [code-word lookup] with odd capitalization: 
+    1. Identify words in Clue 1.6.2: Day, Lips, Eyebrows, and Knife.
+    2. Find words in lists in Clue 1.5.1 and convert to numbers.
+    3. Answer: 4482
+  * Items:
+    * Clue 1.7.1: [Reiki symbols](reiki.pdf) with path directions.
+* [Room 2: Spirit World](#spirit-world-room-2)
+  * Puzzle: [sketch directions]
+    1. Note that one of the symbols in Clue 1.7.1 is labeled "Open Dimensions".
+    2. Also note that the symbol has numbered arrows noting the order and
+       directions of the path.
+    3. Enter these directions into a [directional lock].
+    4. Answer: → ← → ↑
+  * Items:
+    * Clue 2.0.1: [Map of night sky with astrological
+      symbols](constellations-map.pdf). 
+    * Boxes 8, 9, 10
+* [Box 8: Astrology Reading](#astrology-reading-box-8)
+  * Puzzle: [grid lookup] + [symbol algebra] + [symbol substitution]
+    1. Note the first letters of each phrase in Clue 1.5.2: B-L, R-C, L-M, M-K
+    2. Use each pair of letters to find the corresponding grid component in Clue
+       2.0.1 based on the reference grid letters around the outside.
+    3. Note the astrological symbol in each of these grid components: ♉, ♍, ♑,
+       and ♐.
+    4. Solve the algebra in Clue 1.4.1 (if provided) to find a numeric value
+       associated with each symbol.
+    5. Convert the map symbols to numbers with the algebra solution (or Clue
+       1.4.2 if provided instead) to reveal the code.
+    6. Answer: 3152.
+  * Items:
+    * Clue 2.8.1: [QR jigsaw pieces](jigsaw-qr.png)
+* [Box 9: Banishment Potion](#banishment-potion-box-9)
+  * Puzzle: [tea light message]
+    1. Over time, a code appears in Clue 1.0.1. (Make sure the candle stays lit
+       until the code is found. If the players blow it out, relight it and say
+       the candle relights on its own.)
+  * Items:
+    * Clue 2.9.1: [Banishment potion](potion-recipe.pdf)
+* [Box 10: Lizzy Unchained](#lizzy-unchained-box-10)
+  * Puzzle: [groovy blocks] + [hanging boss]
+    1. Stack the Clue 1.3.1 blocks correctly to reveal to code on the side.
+    2. Answer: 8347
+  * Items:
+    * Clue 2.10.1: [List of potion ingredients].
+    * Box 12 (the second half of the [hanging boss]).
+* [Box 11: Spirit Box](#spirit-box-box-11)
+  * Puzzle: [jigsaw QR]
+    1. Assemble the pieces of Clue 2.8.1.
+    2. Scan the QR code.
+  * Items:
+    * Clue 2.11.1: Web page for [spirit box].
+* [Box 12: Lizzy Defeated](#lizzy-defeated-box-12)
+  * Puzzle: [code-word lookup]
+    1. Look up the ingredients from Clue 2.9.1 to get the associated number in
+       Clue 2.10.1. This gives the digits 1, 2, 5, 9, and 0, respectively.
+    2. Reorder these numbers based on the quantity listed in Clue 2.9.1.
+    3. Answer: 51029
+  * Items:
+    * Clue 2.12.1: [shopping list](shopping-list.pdf)
+* [Exit: Escape House](#escape-house-exit)
+  * Puzzle: [code-word lookup]
+    1. Listening to Clue 2.11.1, 4 words are discernable: Evil, Gore, Blood,
+       Pickles.
+    2. Look up these words in Clue 2.12.1.
+    3. Answer: 8314
+
+[unfair hiding spot]: /puzzles/hiding-places/unfair-hiding-places/
+[map]: /puzzles/hiding-places/maps/
+[symbol substitution]: /puzzles/ciphers/symbol-substitution/
+
+## Audio Quick Reference
+
+As the players progress in the game, there are some audio files you can play at
+certain events to add ambience. Here is a quick reference tyo play each file.
+
+Box 6: Summon Lizzy opened (Lizzy asks for help) \
+{{< example-audio src="lizzy-help.mp3" >}}
+
+Box 10: Lizzy Unchained (Evil Lizzy is revealed and threatens players) \
+{{< example-audio src="evil-lizzy.mp3" >}}
+
+Box 12: Lizzy Defeated (Lizzy is defeated and falls to the ground) \
+{{< example-audio src="defeated-lizzy.mp3" >}}
