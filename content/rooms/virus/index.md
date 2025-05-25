@@ -512,7 +512,7 @@ diagram above. Where possible, I have provided material for you.
        second set of digits.
     3. Answer (suggested): 1547
   * Items:
-    * Clue 2.7.1: [World Map](/puzzles/mazes/map-trace/world-map.pdf)
+    * Clue 2.7.1: [World Map](world-map.pdf)
     * Clue 2.7.2: Foam Dart Guns
 * Box 8: Zombies!
   * Puzzle: [cryptex]
