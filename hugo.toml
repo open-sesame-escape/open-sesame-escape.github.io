@@ -53,7 +53,8 @@ theme = "relearn"
   # If the search is disabled, no search box will be displayed in the menu,
   # nor in-page search, search popup or dedicated search page will be available.
   # This will also cause the keyboard shortcut to be disabled.
-  disableSearch = false
+  [params.search]
+    disable = false
 
   # Hide the Home entry.
   # Default: false
