@@ -26,7 +26,6 @@
   * Shadow message
     * Shine light on popsicle sticks
 * Orders and Arrangement
-  * Deck of cards
   * Sort index cards
 * Mirrors
   * Reflected numbers
@@ -50,13 +49,3 @@
   * Missing segments in 7-segment display
     * The segments that are _not_ highlighted are the ones that form numbers
     * https://www.reddit.com/r/puzzles/comments/1e17v56/solve_the_following_puzzle_below_to_work_out_the/
-
-* TODO after posting
-  * Update online examples to use real web page for virus
-    * update COVID-19 with NEONORO
-    * Remove player names
-    * Update QR code
-  * Link back and forth between groovy blocks and thangs
-  * Summary of material at the bottom of rooms
-    * Virus
-    * Ghost chasers
