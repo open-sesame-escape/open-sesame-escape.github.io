@@ -4,6 +4,17 @@
     padding-left: 5px;
     margin: 0px;
 }
+.image-inline {
+    position: relative;
+    display: inline;
+    max-width: 100%
+}
+
+img.new {
+    position: absolute;
+    top: -5px;
+    left: -20px;
+}
 
 /* Size tables to their natural width. Inherited style sizes full width. */
 table {
