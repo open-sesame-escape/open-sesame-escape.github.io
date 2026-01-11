@@ -19,6 +19,8 @@
   * Run length encoding
   * Color by coordinates
   * Pegs and string
+* Hiding places
+  * Behind the door
 * Coded objects
   * Box of mystery
     * Players reach in to read code with hand

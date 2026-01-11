@@ -1,7 +1,7 @@
 ---
 title: "Ghost Chasers"
 date: 2024-06-23T21:09:13-04:00
-weight:
+weight: 20
 thumbnail: "ghost-chasers.png"
 summary: "A group of paranormal investigators must chase down ghosts, free souls, and battle evil."
 ---
