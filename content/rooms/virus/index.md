@@ -290,7 +290,7 @@ have collected 5 such cups. When stacked together, the cups form a
 The players need to stack the cups in the right order and twist the cups so
 that the highlighted words in the security questions, FOODS, MONTH, and
 CHILD, are spelled on the cups. The remaining letters form the words of the
-answers to the security questions: CANDY, MARCH, and JOHNY.
+answers to the security questions: CANDY, MARCH, and TYLER.
 
 Once the players enter these words in the [reset password] form, they are
 taken immediately to a [secure note from Dr. Beaker]. At the bottom of the
