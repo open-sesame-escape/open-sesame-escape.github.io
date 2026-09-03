@@ -49,3 +49,6 @@
   * Missing segments in 7-segment display
     * The segments that are _not_ highlighted are the ones that form numbers
     * https://www.reddit.com/r/puzzles/comments/1e17v56/solve_the_following_puzzle_below_to_work_out_the/
+  * Labeled bars in 7-segment display
+    * Each bar has some numbers. Those numbers represent whether that bar is part of that digit
+    * https://www.reddit.com/r/puzzles/comments/1w5p2tb/can_you_figure_out_the_combination/
